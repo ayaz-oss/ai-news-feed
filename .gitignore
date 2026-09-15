@@ -1,0 +1,3 @@
+# Never commit this — the feeds bot token lives here for local runs.
+# In CI the token comes from GitHub Actions secrets instead.
+.env

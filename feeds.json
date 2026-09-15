@@ -1,0 +1,53 @@
+{
+  "windowDays": 3,
+  "maxItems": 12,
+  "keywords": [
+    "ai", "a.i.", "llm", "gpt", "claude", "anthropic", "openai", "gemini",
+    "copilot", "chatgpt", "machine learning", "neural", "agent", "agentic",
+    "model", "transformer", "artificial intelligence", "genai"
+  ],
+  "sources": [
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "tag": "dev",
+      "filter": false
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "tag": "dev",
+      "filter": false
+    },
+    {
+      "name": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "tag": "dev",
+      "filter": false
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "tag": "dev",
+      "filter": true
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage?points=150",
+      "tag": "dev",
+      "filter": true
+    },
+    {
+      "name": "EdSurge",
+      "url": "https://www.edsurge.com/articles_rss",
+      "tag": "education",
+      "filter": true
+    },
+    {
+      "name": "EdTech K-12",
+      "url": "https://edtechmagazine.com/k12/rss.xml",
+      "tag": "education",
+      "filter": true
+    }
+  ]
+}

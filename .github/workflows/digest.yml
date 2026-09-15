@@ -1,0 +1,45 @@
+name: AI news digest
+
+on:
+  schedule:
+    # 06:32 UTC. GitHub cron does not observe DST, so this lands at 07:32 UK
+    # in summer and 06:32 in winter. Off-minute on purpose: everyone schedules
+    # :00, and the queue at the top of the hour is where runs get delayed.
+    - cron: "32 6 * * *"
+  workflow_dispatch:
+
+# Needed so the job can commit seen.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.3.12"
+
+      - name: Send digest
+        env:
+          FEEDS_BOT_TOKEN: ${{ secrets.FEEDS_BOT_TOKEN }}
+          FEEDS_CHAT_ID: ${{ secrets.FEEDS_CHAT_ID }}
+        run: bun run feed.ts
+
+      - name: Persist dedupe state
+        run: |
+          if git diff --quiet seen.json; then
+            echo "no new items — nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen.json
+          git commit -m "chore: update seen items [skip ci]"
+          git push
