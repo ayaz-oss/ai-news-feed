@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-16T05:24:59.503Z",
+  "generatedAt": "2026-09-16T11:57:22.638Z",
   "items": [
+    {
+      "title": "What Yellowstone, Rwanda and AI Taught Me About Change",
+      "link": "https://edsurge.com/news/what-yellowstone-rwanda-and-ai-taught-me-about-change",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "By viewing our classrooms as interconnected ecosystems, we can move beyond the surface-level debate over technology to focus on cultivating judgment, ...",
+      "date": "2026-09-16T00:00:00.000Z"
+    },
     {
       "title": "Gemini Live audio",
       "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
@@ -14,7 +22,7 @@
       "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 1022 # Comments: 319",
+      "blurb": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 1482 # Comments: 424",
       "date": "2026-09-15T19:25:03.000Z"
     },
     {
@@ -30,24 +38,24 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 360 # Comments: 231",
+      "blurb": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 430 # Comments: 285",
       "date": "2026-09-15T17:38:18.000Z"
+    },
+    {
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://dank.systems/posts/2026-09-15-ai-bear.html Comments URL: https://news.ycombinator.com/item?id=49715927 Points: 257 # Comments: 316",
+      "date": "2026-09-15T17:37:12.000Z"
     },
     {
       "title": "Let's make quality the norm again",
       "link": "https://www.forbrukerradet.no/short-life/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 353 # Comments: 367",
+      "blurb": "Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 414 # Comments: 431",
       "date": "2026-09-15T10:00:16.000Z"
-    },
-    {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "link": "https://www.effort.news/irregular",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132 Points: 552 # Comments: 190",
-      "date": "2026-09-14T21:15:01.000Z"
     }
   ]
 }
