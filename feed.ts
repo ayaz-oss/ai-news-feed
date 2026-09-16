@@ -222,7 +222,11 @@ async function main() {
   const env = loadEnv();
   const token = env.FEEDS_BOT_TOKEN;
   const chatId = env.FEEDS_CHAT_ID;
-  if (!token || !chatId) throw new Error("FEEDS_BOT_TOKEN and FEEDS_CHAT_ID required in .env");
+  // Only the sending path needs Telegram credentials. --json and --dry must
+  // work without them, so the cloud routine can read the feed with no secrets.
+  if (!DRY && !JSON_OUT && (!token || !chatId)) {
+    throw new Error("FEEDS_BOT_TOKEN and FEEDS_CHAT_ID required in .env");
+  }
 
   const seen = loadSeen();
   const cutoff = Date.now() - cfg.windowDays * 86_400_000;
