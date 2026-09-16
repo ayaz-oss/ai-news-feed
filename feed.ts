@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 // AI news digest -> Telegram, via @ayaz_feeds_bot.
-// Run: bun run feed.ts [--dry]
+// Run: bun run feed.ts [--dry | --json]
 //
 // Reads feeds.json for sources, .env for credentials, seen.json for dedupe.
 // Paths resolve against this file, not the cwd, so Task Scheduler can run it
@@ -12,6 +12,9 @@ import { fileURLToPath } from "node:url";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const DRY = process.argv.includes("--dry");
+// --json prints the selected items and exits. The cloud routine consumes this
+// instead of scraping the rendered HTML digest.
+const JSON_OUT = process.argv.includes("--json");
 
 type Source = { name: string; url: string; tag: string; filter: boolean };
 type Config = {
@@ -20,7 +23,14 @@ type Config = {
   keywords: string[];
   sources: Source[];
 };
-type Item = { title: string; link: string; date: Date; source: string; tag: string };
+type Item = {
+  title: string;
+  link: string;
+  date: Date;
+  source: string;
+  tag: string;
+  blurb: string;
+};
 
 // ---------------------------------------------------------------- env + state
 
@@ -118,7 +128,18 @@ function parseFeed(xml: string, source: Source): Item[] {
     const date = stamp ? new Date(stamp) : new Date(NaN);
     if (isNaN(date.getTime())) continue; // undateable items break the window
 
-    items.push({ title, link, date, source: source.name, tag: source.tag });
+    // Feed descriptions range from a real summary (EdSurge) to the article's
+    // first paragraph (MIT) to HTML soup (Simon Willison). Pass what there is
+    // to the model and let it sort out the signal; cap it so one verbose feed
+    // can't dominate the prompt.
+    const blurb = (
+      firstTag(block, "description") ??
+      firstTag(block, "summary") ??
+      firstTag(block, "content") ??
+      ""
+    ).slice(0, 400);
+
+    items.push({ title, link, date, source: source.name, tag: source.tag, blurb });
   }
   return items;
 }
@@ -150,18 +171,21 @@ function escapeHtml(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
+function today(): string {
+  return new Date().toLocaleDateString("en-GB", {
+    weekday: "short",
+    day: "numeric",
+    month: "short",
+  });
+}
+
 function buildDigest(items: Item[]): string {
   const groups: [string, string][] = [
     ["dev", "AI for developers"],
     ["education", "AI in education"],
   ];
-  const today = new Date().toLocaleDateString("en-GB", {
-    weekday: "short",
-    day: "numeric",
-    month: "short",
-  });
 
-  const parts = [`<b>AI digest — ${today}</b>`];
+  const parts = [`<b>AI digest — ${today()}</b>`];
   for (const [tag, heading] of groups) {
     const group = items.filter((i) => i.tag === tag);
     if (!group.length) continue;
@@ -231,16 +255,35 @@ async function main() {
       fresh.push(item);
       kept++;
     }
-    console.log(`${source.name}: ${result.value.items.length} items, ${kept} new`);
+    if (!JSON_OUT) console.log(`${source.name}: ${result.value.items.length} items, ${kept} new`);
   }
 
   if (!fresh.length) {
-    console.log("nothing new — no message sent");
+    console.log(JSON_OUT ? "[]" : "nothing new — no message sent");
     return;
   }
 
   fresh.sort((a, b) => b.date.getTime() - a.date.getTime());
   const digest = allocate(fresh, cfg);
+
+  if (JSON_OUT) {
+    console.log(
+      JSON.stringify(
+        digest.map((i) => ({
+          title: i.title,
+          link: i.link,
+          source: i.source,
+          tag: i.tag,
+          blurb: i.blurb,
+          date: i.date.toISOString(),
+        })),
+        null,
+        2,
+      ),
+    );
+    return;
+  }
+
   const text = buildDigest(digest);
 
   if (DRY) {
