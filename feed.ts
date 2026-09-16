@@ -296,6 +296,28 @@ async function main() {
   }
 
   await send(token, chatId, text);
+
+  // The cloud routine's sandbox blocks outbound HTTPS, so it cannot fetch the
+  // feeds itself. Leave today's items on disk for it to read and summarise.
+  writeFileSync(
+    join(HERE, "items.json"),
+    JSON.stringify(
+      {
+        generatedAt: new Date().toISOString(),
+        items: digest.map((i) => ({
+          title: i.title,
+          link: i.link,
+          source: i.source,
+          tag: i.tag,
+          blurb: i.blurb,
+          date: i.date.toISOString(),
+        })),
+      },
+      null,
+      2,
+    ),
+  );
+
   for (const item of digest) seen.add(item.link);
   saveSeen(seen);
   console.log(`sent ${digest.length} items`);

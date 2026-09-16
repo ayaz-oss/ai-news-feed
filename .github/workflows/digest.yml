@@ -32,14 +32,14 @@ jobs:
           FEEDS_CHAT_ID: ${{ secrets.FEEDS_CHAT_ID }}
         run: bun run feed.ts
 
-      - name: Persist dedupe state
+      - name: Persist dedupe state and today's items
         run: |
-          if git diff --quiet seen.json; then
+          if git diff --quiet seen.json items.json; then
             echo "no new items — nothing to commit"
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen.json
+          git add seen.json items.json
           git commit -m "chore: update seen items [skip ci]"
           git push

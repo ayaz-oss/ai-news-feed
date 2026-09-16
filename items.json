@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-09-16T05:24:59.503Z",
+  "items": [
+    {
+      "title": "Gemini Live audio",
+      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-live\">Gemini Live audio</a></p> <p>Google released <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">Gemini 3.8 Live and 3.8 Live Extended Thinking</a> today - two new speech-to-speech models that are a similar shape to OpenAI's <a href=\"https",
+      "date": "2026-09-15T22:47:07.000Z"
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 1022 # Comments: 319",
+      "date": "2026-09-15T19:25:03.000Z"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
+      "date": "2026-09-15T17:47:51.000Z"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 360 # Comments: 231",
+      "date": "2026-09-15T17:38:18.000Z"
+    },
+    {
+      "title": "Let's make quality the norm again",
+      "link": "https://www.forbrukerradet.no/short-life/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 353 # Comments: 367",
+      "date": "2026-09-15T10:00:16.000Z"
+    },
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "link": "https://www.effort.news/irregular",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132 Points: 552 # Comments: 190",
+      "date": "2026-09-14T21:15:01.000Z"
+    }
+  ]
+}
