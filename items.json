@@ -1,61 +1,85 @@
 {
-  "generatedAt": "2026-09-16T11:57:22.638Z",
+  "generatedAt": "2026-09-17T11:58:54.197Z",
   "items": [
     {
-      "title": "What Yellowstone, Rwanda and AI Taught Me About Change",
-      "link": "https://edsurge.com/news/what-yellowstone-rwanda-and-ai-taught-me-about-change",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "By viewing our classrooms as interconnected ecosystems, we can move beyond the surface-level debate over technology to focus on cultivating judgment, ...",
-      "date": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "title": "Gemini Live audio",
-      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "title": "datasette 1.0a40",
+      "link": "https://simonwillison.net/2026/Sep/16/datasette/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-live\">Gemini Live audio</a></p> <p>Google released <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">Gemini 3.8 Live and 3.8 Live Extended Thinking</a> today - two new speech-to-speech models that are a similar shape to OpenAI's <a href=\"https",
-      "date": "2026-09-15T22:47:07.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a40\">datasette 1.0a40</a></p> <p>Same security fix as <a href=\"https://simonwillison.net/2026/Sep/16/datasette-2/\">0.65.5</a>, plus some neat new features and bug fixes:</p> <ul> <li>Plugins can now launch and manage <strong>background tasks</strong> using the new <a href=\"https://docs.datasette.io/en/latest/",
+      "date": "2026-09-16T23:51:43.000Z"
     },
     {
-      "title": "Introducing System One Models and Jev",
-      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "source": "Hacker News",
+      "title": "datasette 0.65.5",
+      "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 1482 # Comments: 424",
-      "date": "2026-09-15T19:25:03.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p> <p>Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by <a href=\"https://github.com/dpfkdlemtp\">dpfkdlemtp</a> in <a href=\"https://github.com/simonw/datasette/security/advisories/GHSA-h547",
+      "date": "2026-09-16T23:51:08.000Z"
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "title": "Claude Cowork and chat are now one Claude",
+      "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude Cowork and chat are now one Claude</a></strong></p> In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:</p> <blockquote> <p>Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude tak",
+      "date": "2026-09-16T18:09:49.000Z"
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "date": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "title": "Quoting Mustafa Suleyman",
+      "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://mustafa-suleyman.ai/a-warning-about-model-welfare\"><p>We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and",
+      "date": "2026-09-16T16:00:54.000Z"
+    },
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "date": "2026-09-16T16:00:00.000Z"
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "date": "2026-09-16T13:00:00.000Z"
+    },
+    {
+      "title": "Building the materials foundation for AI",
+      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
-      "date": "2026-09-15T17:47:51.000Z"
+      "blurb": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…",
+      "date": "2026-09-16T12:47:34.000Z"
     },
     {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "source": "Hacker News",
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 430 # Comments: 285",
-      "date": "2026-09-15T17:38:18.000Z"
+      "blurb": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "date": "2026-09-16T12:00:00.000Z"
     },
     {
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "source": "Hacker News",
+      "title": "How workers are unlocking new ways of working",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Article URL: https://dank.systems/posts/2026-09-15-ai-bear.html Comments URL: https://news.ycombinator.com/item?id=49715927 Points: 257 # Comments: 316",
-      "date": "2026-09-15T17:37:12.000Z"
-    },
-    {
-      "title": "Let's make quality the norm again",
-      "link": "https://www.forbrukerradet.no/short-life/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 414 # Comments: 431",
-      "date": "2026-09-15T10:00:16.000Z"
+      "blurb": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "date": "2026-09-16T09:00:00.000Z"
     }
   ]
 }
