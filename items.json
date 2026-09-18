@@ -1,85 +1,93 @@
 {
-  "generatedAt": "2026-09-17T11:58:54.197Z",
+  "generatedAt": "2026-09-18T11:39:45.969Z",
   "items": [
     {
-      "title": "datasette 1.0a40",
-      "link": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 170 # Comments: 105",
+      "date": "2026-09-18T09:45:07.000Z"
+    },
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "link": "https://www.hacktron.ai/blog/hacking-openai",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 368 # Comments: 159",
+      "date": "2026-09-18T02:47:24.000Z"
+    },
+    {
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a40\">datasette 1.0a40</a></p> <p>Same security fix as <a href=\"https://simonwillison.net/2026/Sep/16/datasette-2/\">0.65.5</a>, plus some neat new features and bug fixes:</p> <ul> <li>Plugins can now launch and manage <strong>background tasks</strong> using the new <a href=\"https://docs.datasette.io/en/latest/",
-      "date": "2026-09-16T23:51:43.000Z"
+      "blurb": "<p><strong><a href=\"https://blog.rust-lang.org/2026/09/17/targeted-attacks/\">Be alert: targeted attacks on prominent Rustaceans</a></strong></p> Important warning from Adam Harvey and the crates security team:</p> <blockquote> <p>We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to us",
+      "date": "2026-09-17T23:59:19.000Z"
     },
     {
-      "title": "datasette 0.65.5",
-      "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "title": "How To Write With An LLM",
+      "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p> <p>Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by <a href=\"https://github.com/dpfkdlemtp\">dpfkdlemtp</a> in <a href=\"https://github.com/simonw/datasette/security/advisories/GHSA-h547",
-      "date": "2026-09-16T23:51:08.000Z"
+      "blurb": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">How To Write With An LLM</a></strong></p> Thomas Ptacek on using LLMs as copyeditors, not as writing assistants:</p> <blockquote> <p><strong>Rule Number One: You may not use a single word an LLM suggests to you.</strong></p> <p>[...] I think that as a form of intellectual personal protective equipment you should ",
+      "date": "2026-09-17T23:37:27.000Z"
     },
     {
-      "title": "Claude Cowork and chat are now one Claude",
-      "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 190 # Comments: 120",
+      "date": "2026-09-17T21:48:38.000Z"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 470 # Comments: 138",
+      "date": "2026-09-17T21:13:31.000Z"
+    },
+    {
+      "title": "Self-generated prompt injections in compaction summaries",
+      "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude Cowork and chat are now one Claude</a></strong></p> In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:</p> <blockquote> <p>Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude tak",
-      "date": "2026-09-16T18:09:49.000Z"
+      "blurb": "<p><strong><a href=\"https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/\">Self-generated prompt injections in compaction summaries</a></strong></p> In <a href=\"https://openai.com/index/model-misalignment-reporting-framework/\">Our framework for reporting model misalignment</a> OpenAI provide \"six reports on unexpected or concerning model behavi",
+      "date": "2026-09-17T20:57:55.000Z"
     },
     {
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 496 # Comments: 234",
+      "date": "2026-09-17T20:36:13.000Z"
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica",
+      "tag": "dev",
+      "blurb": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "date": "2026-09-17T18:33:13.000Z"
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "date": "2026-09-16T17:00:00.000Z"
+      "blurb": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "date": "2026-09-17T12:00:00.000Z"
     },
     {
-      "title": "Quoting Mustafa Suleyman",
-      "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://mustafa-suleyman.ai/a-warning-about-model-welfare\"><p>We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and",
-      "date": "2026-09-16T16:00:54.000Z"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "date": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "date": "2026-09-16T13:00:00.000Z"
-    },
-    {
-      "title": "Building the materials foundation for AI",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…",
-      "date": "2026-09-16T12:47:34.000Z"
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "date": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "link": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "date": "2026-09-16T09:00:00.000Z"
+      "blurb": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "date": "2026-09-17T00:00:00.000Z"
     }
   ]
 }
