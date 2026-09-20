@@ -1,85 +1,37 @@
 {
-  "generatedAt": "2026-09-19T11:22:24.531Z",
+  "generatedAt": "2026-09-20T11:43:48.028Z",
   "items": [
     {
-      "title": "AI-generated posters don’t have to be horrible",
-      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 179 # Comments: 120",
-      "date": "2026-09-19T09:20:58.000Z"
+      "blurb": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 157 # Comments: 122",
+      "date": "2026-09-20T06:16:42.000Z"
     },
     {
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "title": "datasette-auth-github 1.0",
+      "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-auth-github/releases/tag/1.0\">datasette-auth-github 1.0</a></p> <p>I run this GitHub login plugin on the <a href=\"https://agent.datasette.io/\">agent.datasette.io</a> demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a <code>Max-Age</cod",
+      "date": "2026-09-19T19:52:02.000Z"
+    },
+    {
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><img src=\"https://static.inaturalist.org/photos/737061413/large.jpg\" alt=\"California Sea Lion\"></p><p><img src=\"https://static.inaturalist.org/photos/737061040/large.jpg\" alt=\"Brandt&#x27;s Cormorant\"></p><p>California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor, CA, US</p><p>I only noticed this after I had taken the photo: Morris <a href=\"https://simonwillison.net/2026/Aug/15/sig",
+      "date": "2026-09-19T17:10:08.000Z"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "link": "https://laya.convaiinnovations.com/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 271 # Comments: 107",
-      "date": "2026-09-19T05:48:50.000Z"
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2\">Gemini Hacked Three Companies in First Known Breakout by Google’s AI</a></strong></p> Gemini finally caught up on <a href=\"https://www.felonybench.com/\">Felony Bench</a>!</p> <blockquote> <p>The hacks, which the company confirmed on Friday, occurred in May as part of a test",
-      "date": "2026-09-18T23:57:57.000Z"
-    },
-    {
-      "title": "Note on 18th September 2026",
-      "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>",
-      "date": "2026-09-18T19:21:32.000Z"
-    },
-    {
-      "title": "Quoting Thariq Shihipar",
-      "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://twitter.com/trq212/status/2101009392611278961\"><p>We're adding support for AGENTS.md to Claude Code. </p> <p>Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.</p> <p>AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness.</p> <p>This is a built-in mod, but yo",
-      "date": "2026-09-18T19:09:27.000Z"
-    },
-    {
-      "title": "The Creative Spirit of Who Framed Roger Rabbit",
-      "link": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://blog.cypressf.com/post/828067789747208192/the-creative-spirit-of-who-framed-roger-rabbit\">The Creative Spirit of Who Framed Roger Rabbit</a></strong></p> I love <a href=\"https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit\">Who Framed Roger Rabbit</a>, the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out",
-      "date": "2026-09-18T14:36:41.000Z"
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "link": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "date": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
-      "date": "2026-09-18T11:29:22.000Z"
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "link": "https://cactuscompute.com/needle",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Hey HN, Henry from Cactus here.We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.The key features:1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challengin",
-      "date": "2026-09-18T00:11:44.000Z"
-    },
-    {
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "link": "https://openai.com/index/hex-gpt-6-astra",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "date": "2026-09-16T12:00:00.000Z"
+      "blurb": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1229 # Comments: 294",
+      "date": "2026-09-19T10:46:58.000Z"
     }
   ]
 }
