@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-09-21T13:11:55.769Z",
+  "generatedAt": "2026-09-22T11:58:02.058Z",
   "items": [
     {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
-      "date": "2026-09-21T12:00:00.000Z"
+      "blurb": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "date": "2026-09-22T11:04:51.000Z"
     },
     {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-      "date": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
-      "date": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying…",
-      "date": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "link": "https://github.com/jaredpalmer/kev/tree/main",
+      "title": "I said no and Apple said yes",
+      "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://github.com/jaredpalmer/kev/tree/main Comments URL: https://news.ycombinator.com/item?id=49783999 Points: 182 # Comments: 86",
-      "date": "2026-09-21T07:11:55.000Z"
+      "blurb": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797982 Points: 284 # Comments: 205",
+      "date": "2026-09-22T08:04:55.000Z"
     },
     {
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "link": "https://github.com/volotat/mini-AGI/",
+      "title": "Can gzip be a language model?",
+      "link": "https://nathan.rs/posts/gzip-lm/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit.So, first of all it does work and you can see the sample from the whole training run here: https://raw.githubusercontent.com/volota",
-      "date": "2026-09-21T04:42:37.000Z"
+      "blurb": "Article URL: https://nathan.rs/posts/gzip-lm/ Comments URL: https://news.ycombinator.com/item?id=49797323 Points: 187 # Comments: 74",
+      "date": "2026-09-22T06:08:39.000Z"
     },
     {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "link": "https://agentexecutor.io",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 544 # Comments: 245",
-      "date": "2026-09-20T22:32:43.000Z"
-    },
-    {
-      "title": "Quoting voxium",
-      "link": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "link": "https://simonwillison.net/2026/Sep/21/jev/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://twitter.com/v0xium/status/2101526107128529120\"><p>It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times",
-      "date": "2026-09-20T21:06:43.000Z"
+      "blurb": "<p>Last week <a href=\"https://typesafe.ai/\">TypeSafe AI</a> unveiled <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">Jev</a>, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is <a href=\"https://twitter.com/Mappletons/status/2101560333441610133\">a better name</a> for these). Jev is",
+      "date": "2026-09-21T23:09:20.000Z"
     },
     {
-      "title": "llm-keys-ui 0.1",
-      "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "title": "Cloudflare Python Workers are now generally available",
+      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-keys-ui/releases/tag/0.1\">llm-keys-ui 0.1</a></p> <p>This plugin solves a very specific problem.</p> <p>I've started using <a href=\"https://learn.chatgpt.com/docs/remote\">Codex Remote</a> to run coding agents on various machines while controlling them from my phone. </p> <p>Sometimes I use those machines to hack on LLM projects, a",
-      "date": "2026-09-20T19:22:19.000Z"
+      "blurb": "<p><strong><a href=\"https://blog.cloudflare.com/python-workers-ga/\">Cloudflare Python Workers are now generally available</a></strong></p> After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\".</p> <p>A neat thing about this is how it wo",
+      "date": "2026-09-21T22:25:44.000Z"
     },
     {
-      "title": "The LLMentalist Effect (2023)",
-      "link": "https://softwarecrisis.dev/letters/llmentalist/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://softwarecrisis.dev/letters/llmentalist/ Comments URL: https://news.ycombinator.com/item?id=49775104 Points: 203 # Comments: 276",
-      "date": "2026-09-20T12:20:13.000Z"
-    },
-    {
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
       "source": "Ars Technica",
       "tag": "dev",
-      "blurb": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-      "date": "2026-09-20T11:07:00.000Z"
+      "blurb": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "date": "2026-09-21T22:24:38.000Z"
     },
     {
-      "title": "datasette-explain 0.2.2",
-      "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-      "source": "Simon Willison",
+      "title": "Transformers Explained Visually",
+      "link": "https://poloclub.github.io/transformer-explainer/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\">datasette-explain 0.2.2</a></p> <blockquote> <ul> <li>Explain plans now work on read-only stored-query pages.</li> </ul> </blockquote> <p>I upgraded <a href=\"https://datasette.simonwillison.net\">datasette.simonwillison.net</a> to Datasette 1.0a40, which inspired me to ship a new version of this ex",
-      "date": "2026-09-20T00:22:04.000Z"
+      "blurb": "Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.ycombinator.com/item?id=49792342 Points: 450 # Comments: 70",
+      "date": "2026-09-21T19:43:49.000Z"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "link": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 257 # Comments: 294",
+      "date": "2026-09-21T19:23:33.000Z"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "link": "https://blog.cloudflare.com/python-workers-ga/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://blog.cloudflare.com/python-workers-ga/ Comments URL: https://news.ycombinator.com/item?id=49787142 Points: 238 # Comments: 38",
+      "date": "2026-09-21T13:38:19.000Z"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "date": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "date": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "date": "2026-09-21T10:00:00.000Z"
     }
   ]
 }
