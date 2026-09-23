@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-09-22T11:58:02.058Z",
+  "generatedAt": "2026-09-23T11:59:28.806Z",
   "items": [
     {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
-      "date": "2026-09-22T11:04:51.000Z"
-    },
-    {
-      "title": "I said no and Apple said yes",
-      "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797982 Points: 284 # Comments: 205",
-      "date": "2026-09-22T08:04:55.000Z"
-    },
-    {
-      "title": "Can gzip be a language model?",
-      "link": "https://nathan.rs/posts/gzip-lm/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://nathan.rs/posts/gzip-lm/ Comments URL: https://news.ycombinator.com/item?id=49797323 Points: 187 # Comments: 74",
-      "date": "2026-09-22T06:08:39.000Z"
-    },
-    {
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-      "link": "https://simonwillison.net/2026/Sep/21/jev/",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p>Last week <a href=\"https://typesafe.ai/\">TypeSafe AI</a> unveiled <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">Jev</a>, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is <a href=\"https://twitter.com/Mappletons/status/2101560333441610133\">a better name</a> for these). Jev is",
-      "date": "2026-09-21T23:09:20.000Z"
+      "blurb": "<p><strong><a href=\"https://luma.com/vxuiuyvg\">SF October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p> I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.</p> <p>Think of it as an agentic show-and-tell:</p> <blockquote> <p>​Compare notes wi",
+      "date": "2026-09-23T02:53:19.000Z"
     },
     {
-      "title": "Cloudflare Python Workers are now generally available",
-      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "date": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://blog.cloudflare.com/python-workers-ga/\">Cloudflare Python Workers are now generally available</a></strong></p> After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\".</p> <p>A neat thing about this is how it wo",
-      "date": "2026-09-21T22:25:44.000Z"
+      "blurb": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6 Flash/Pro</a> (<a href=\"https://news.ycombinator.com/item?id=49792730#49793480\">more pelicans</a>). Today Anthropic <a href=\"https://www.anthropic.com/claude-opus-5-5\">released Claude Opus 5.5</a",
+      "date": "2026-09-22T23:46:41.000Z"
     },
     {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "date": "2026-09-22T21:00:00.000Z"
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
       "source": "Ars Technica",
       "tag": "dev",
-      "blurb": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "date": "2026-09-21T22:24:38.000Z"
+      "blurb": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "date": "2026-09-22T19:45:47.000Z"
     },
     {
-      "title": "Transformers Explained Visually",
-      "link": "https://poloclub.github.io/transformer-explainer/",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.ycombinator.com/item?id=49792342 Points: 450 # Comments: 70",
-      "date": "2026-09-21T19:43:49.000Z"
+      "blurb": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 693 # Comments: 346",
+      "date": "2026-09-22T19:03:38.000Z"
     },
     {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "link": "https://linear.app/now/ci-bottleneck-reworked",
+      "title": "llm 0.36",
+      "link": "https://simonwillison.net/2026/Sep/22/llm/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.36\">llm 0.36</a></p> <blockquote> <ul> <li>New OpenAI models: <code>gpt-6-sol</code> for <a href=\"https://developers.openai.com/api/docs/models/gpt-6-sol\">GPT-6 Sol</a> and <code>gpt-6-luna</code> for <a href=\"https://developers.openai.com/api/docs/models/gpt-6-luna\">GPT-6 Luna</a>. <a href=\"https://github.com/simon",
+      "date": "2026-09-22T18:48:37.000Z"
+    },
+    {
+      "title": "Unreal Agent",
+      "link": "https://unreallabs.ai/blog/unreal-agent/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 257 # Comments: 294",
-      "date": "2026-09-21T19:23:33.000Z"
+      "blurb": "https://github.com/unreallabsai/unreal-agent Comments URL: https://news.ycombinator.com/item?id=49805748 Points: 203 # Comments: 110",
+      "date": "2026-09-22T18:15:53.000Z"
     },
     {
-      "title": "Python Workers are now generally available",
-      "link": "https://blog.cloudflare.com/python-workers-ga/",
+      "title": "Quoting @therealcornpop",
+      "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://www.tiktok.com/@therealcornpop/video/7687243097801051422\"><p>Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuatio",
+      "date": "2026-09-22T18:03:21.000Z"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.cloudflare.com/python-workers-ga/ Comments URL: https://news.ycombinator.com/item?id=49787142 Points: 238 # Comments: 38",
-      "date": "2026-09-21T13:38:19.000Z"
+      "blurb": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1590 # Comments: 761",
+      "date": "2026-09-22T18:00:34.000Z"
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "date": "2026-09-21T12:00:00.000Z"
+      "blurb": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "date": "2026-09-22T18:00:00.000Z"
     },
     {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI News",
+      "title": "llm-anthropic 0.29",
+      "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "date": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "title": "Building standards for the next phase of AI",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "date": "2026-09-21T10:00:00.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.29\">llm-anthropic 0.29</a></p> <p>Adds support for <a href=\"https://www.anthropic.com/claude-opus-5-5\">Claude Opus 5.5</a>:</p> <pre><code>llm -m claude-opus-5.5 \"prompt goes here\" </code></pre> <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/anthropic",
+      "date": "2026-09-22T17:14:55.000Z"
     }
   ]
 }
