@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-09-24T12:05:17.491Z",
+  "generatedAt": "2026-09-25T12:05:44.060Z",
   "items": [
     {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "source": "Hacker News",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 221 # Comments: 99",
-      "date": "2026-09-24T08:23:03.000Z"
+      "blurb": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which…",
+      "date": "2026-09-25T09:16:25.000Z"
     },
     {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "link": "https://transluce.org/agent-activity",
+      "title": "Opus 5.5 is good at explainer videos",
+      "link": "https://launchvideo.io",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 151 # Comments: 130",
-      "date": "2026-09-24T05:21:10.000Z"
+      "blurb": "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 291 # Comments: 150",
+      "date": "2026-09-24T20:28:47.000Z"
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "link": "https://fly.io/blog/vscode-ssh-wtf/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://fly.io/blog/vscode-ssh-wtf/ Comments URL: https://news.ycombinator.com/item?id=49822555 Points: 248 # Comments: 159",
-      "date": "2026-09-23T21:01:48.000Z"
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 676 # Comments: 687",
-      "date": "2026-09-23T18:06:47.000Z"
-    },
-    {
-      "title": "Making Tailscale Faster",
-      "link": "https://tailscale.com/blog/making-tailscale-faster",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://tailscale.com/blog/making-tailscale-faster Comments URL: https://news.ycombinator.com/item?id=49819880 Points: 182 # Comments: 70",
-      "date": "2026-09-23T17:49:07.000Z"
-    },
-    {
-      "title": "Gemini 3.8 TTS Playground",
-      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "title": "commit-rewriter 0.2",
+      "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-tts-playground\">Gemini 3.8 TTS Playground</a></p> <p>Google <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\">released two new Gemini text-to-speech models</a> today - <code>gemini-3.8-flash-tts</code> and <code>gemini-3.8-flash-lite-tts</code>.</p> <p>They come with",
-      "date": "2026-09-23T17:12:27.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.2\">commit-rewriter 0.2</a></p> <blockquote> <p>Support for branches other than the default branch. Use <code>uvx commit-rewriter --branch other</code> to run against another branch. <a href=\"https://github.com/simonw/commit-rewriter/issues/3\">#3</a></p> </blockquote> <p>Tags: <a href=\"https://simonwillis",
+      "date": "2026-09-24T20:06:53.000Z"
     },
     {
-      "title": "Shadow roots, explained with live examples",
-      "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "title": "datasette 1.0a41",
+      "link": "https://simonwillison.net/2026/Sep/24/datasette/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/shadow-roots\">Shadow roots, explained with live examples</a></p> <p>Prompt to Fable 5.1 Medium:</p> <blockquote> <p><code>Build an artifact to explain shadow roots in CSS with interactive examples</code></p> </blockquote> <p>Tags: <a href=\"https://simonwillison.net/tags/css\">css</a></p>",
-      "date": "2026-09-23T16:37:18.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a41\">datasette 1.0a41</a></p> <p>Alec Garcia added <a href=\"https://docs.datasette.io/en/latest/internals.html#internals-telemetry\">support for OpenTelemetry</a> to Datasette in this release.</p> <p>I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now <a href=\"https://",
+      "date": "2026-09-24T19:15:23.000Z"
     },
     {
-      "title": "Two years of OpenAI Academy",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI News",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "date": "2026-09-23T16:00:00.000Z"
+      "blurb": "Article URL: https://www.youtube.com/watch?v=vDjW_dRyKXY Comments URL: https://news.ycombinator.com/item?id=49817680 Points: 352 # Comments: 381",
+      "date": "2026-09-23T15:33:33.000Z"
     },
     {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "date": "2026-09-23T13:00:00.000Z"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "blurb": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "date": "2026-09-23T12:00:00.000Z"
     },
     {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "blurb": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "date": "2026-09-23T12:00:00.000Z"
     },
     {
-      "title": "Why AI Made Me a Better Principal",
-      "link": "https://edsurge.com/news/why-ai-made-me-a-better-principal",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "The true metric of AI in school leadership is not time saved, but the presence and clarity restored to daily decision-making.",
-      "date": "2026-09-23T00:00:00.000Z"
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "date": "2026-09-23T10:00:00.000Z"
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "date": "2026-09-23T09:00:00.000Z"
+    },
+    {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "date": "2026-09-23T02:00:00.000Z"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "link": "https://openai.com/index/airbnb-gpt-6-astra",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "date": "2026-09-23T01:00:00.000Z"
+    },
+    {
+      "title": "llm-typesafe 0.1a0",
+      "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-typesafe/releases/tag/0.1a0\">llm-typesafe 0.1a0</a></p> <p>I built this new plugin for <a href=\"https://llm.datasette.io/\">LLM</a> to add support for <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">TypeSafe AI's new Jev model</a>. Install it like this:</p> <pre><code>llm install llm-typesafe </code></pre> <p>Then set an API k",
+      "date": "2026-09-22T15:54:16.000Z"
     }
   ]
 }
