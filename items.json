@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-26T11:41:46.759Z",
+  "generatedAt": "2026-09-27T12:20:43.979Z",
   "items": [
     {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide Comments URL: https://news.ycombinator.com/item?id=49852065 Points: 189 # Comments: 89",
-      "date": "2026-09-26T00:59:02.000Z"
+      "blurb": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ Comments URL: https://news.ycombinator.com/item?id=49864642 Points: 232 # Comments: 151",
+      "date": "2026-09-27T08:44:04.000Z"
     },
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "link": "https://swarmtraces.org/",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 512 # Comments: 319",
-      "date": "2026-09-25T21:09:27.000Z"
+      "blurb": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 302 # Comments: 253",
+      "date": "2026-09-27T06:19:33.000Z"
     },
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
+      "title": "Kākāpō Party",
+      "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "date": "2026-09-25T19:00:00.000Z"
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/kakapo-party\">Kākāpō Party</a></p> <p>I presented a closing keynote for the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> yesterday. As <a href=\"https://simonwillison.net/2019/Dec/10/better-presentations/\">a STAR moment</a> I decided to weave in references to",
+      "date": "2026-09-26T23:39:06.000Z"
     },
     {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "link": "https://ollaya.dev/",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://ollaya.dev/ Comments URL: https://news.ycombinator.com/item?id=49848269 Points: 476 # Comments: 118",
-      "date": "2026-09-25T18:33:50.000Z"
+      "blurb": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 158 # Comments: 42",
+      "date": "2026-09-26T15:56:34.000Z"
     },
     {
-      "title": "Quoting John Gruber",
-      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "source": "Simon Willison",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"><p>Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) <em>and</em> because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as <a href=\"https://daringfireball.net/linked/2",
-      "date": "2026-09-25T17:22:01.000Z"
+      "blurb": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 250 # Comments: 280",
+      "date": "2026-09-26T09:41:58.000Z"
     },
     {
-      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
-      "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
-      "source": "Simon Willison",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "<p><img src=\"https://static.inaturalist.org/photos/740453177/large.jpg\" alt=\"Northern Gannet\"></p><p><img src=\"https://static.inaturalist.org/photos/740453341/large.jpg\" alt=\"Great Blue Heron\"></p><p><img src=\"https://static.inaturalist.org/photos/740454506/large.jpg\" alt=\"California Brown Pelican\"></p><p>Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine ",
-      "date": "2026-09-25T02:07:04.000Z"
+      "blurb": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 225 # Comments: 203",
+      "date": "2026-09-24T20:51:50.000Z"
     },
     {
-      "title": "Note on 24th September 2026",
-      "link": "https://simonwillison.net/2026/Sep/24/harder/",
-      "source": "Simon Willison",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "link": "https://www.movingimagearchive.com/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "<p>The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.</p> <p>We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=",
-      "date": "2026-09-24T23:31:08.000Z"
+      "blurb": "Article URL: https://www.movingimagearchive.com/ Comments URL: https://news.ycombinator.com/item?id=49832768 Points: 182 # Comments: 26",
+      "date": "2026-09-24T16:11:42.000Z"
     }
   ]
 }
