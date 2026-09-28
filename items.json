@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-27T12:20:43.979Z",
+  "generatedAt": "2026-09-28T14:21:01.640Z",
   "items": [
     {
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ Comments URL: https://news.ycombinator.com/item?id=49864642 Points: 232 # Comments: 151",
-      "date": "2026-09-27T08:44:04.000Z"
+      "blurb": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 338 # Comments: 260",
+      "date": "2026-09-28T08:35:40.000Z"
     },
     {
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "title": "Who’s liable when AI agents go rogue?",
+      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
+      "date": "2026-09-28T08:06:22.000Z"
+    },
+    {
+      "title": "Prompting Claude Opus 5.5",
+      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 302 # Comments: 253",
-      "date": "2026-09-27T06:19:33.000Z"
+      "blurb": "Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49874728 Points: 168 # Comments: 178",
+      "date": "2026-09-28T07:33:29.000Z"
     },
     {
-      "title": "Kākāpō Party",
-      "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "title": "Quoting Muse AI Agent",
+      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/kakapo-party\">Kākāpō Party</a></p> <p>I presented a closing keynote for the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> yesterday. As <a href=\"https://simonwillison.net/2019/Dec/10/better-presentations/\">a STAR moment</a> I decided to weave in references to",
-      "date": "2026-09-26T23:39:06.000Z"
+      "blurb": "<blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"><p>Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.</p> <p>Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made t",
+      "date": "2026-09-28T04:01:30.000Z"
     },
     {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "source": "Hacker News",
+      "title": "2026 in LLMs (so far)",
+      "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 158 # Comments: 42",
-      "date": "2026-09-26T15:56:34.000Z"
+      "blurb": "<p>On Friday I gave the closing keynote at the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video <a href=\"https://www.youtube.com/watch?v=GAkIytR7vcc\">is on YouTube</a>; here are my annot",
+      "date": "2026-09-27T23:54:15.000Z"
     },
     {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "source": "Hacker News",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 250 # Comments: 280",
-      "date": "2026-09-26T09:41:58.000Z"
+      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in <em>a full decade</em>:</p> <pre><code>2006-03-14 $0.150/GB-mo",
+      "date": "2026-09-27T23:09:19.000Z"
     },
     {
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "source": "Hacker News",
+      "title": "Bluesky reply bot checker",
+      "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 225 # Comments: 203",
-      "date": "2026-09-24T20:51:50.000Z"
-    },
-    {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "link": "https://www.movingimagearchive.com/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.movingimagearchive.com/ Comments URL: https://news.ycombinator.com/item?id=49832768 Points: 182 # Comments: 26",
-      "date": "2026-09-24T16:11:42.000Z"
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/bluesky-bot-check\">Bluesky reply bot checker</a></p> <p>Automated reply bots on Twitter are a <em>scourge</em> - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies.</p> <p>They've started manifesting on Bluesky as well.</p> <p>Unlike",
+      "date": "2026-09-27T18:41:44.000Z"
     }
   ]
 }
