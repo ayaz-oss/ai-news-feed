@@ -1,7 +1,22 @@
 # ai-news-feed
 
-Daily AI news digest (developers + education) delivered to Telegram by
-`@ayaz_feeds_bot`.
+**A fully automated daily briefing of AI news for developers and educators, sent to Telegram.**
+
+Every morning a GitHub Actions job pulls a curated set of RSS/Atom feeds, filters
+general-interest sources by AI keywords, removes anything already sent, keeps
+education sources from being crowded out by high-volume dev feeds, and posts a
+short digest to Telegram.
+
+- **Zero servers.** Runs entirely on a GitHub Actions cron and commits its own
+  dedupe state back to the repo.
+- **Configurable.** Sources, keywords, recency window and item cap all live in `feeds.json`.
+- **Safe to run locally.** `--dry` prints without sending; `--json` hands items to other routines.
+- **Secrets stay in CI.** Tokens come from GitHub Actions secrets and are never committed.
+
+Built with TypeScript + Bun.
+
+---
+
 
 ## How it runs
 
