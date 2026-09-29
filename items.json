@@ -1,61 +1,101 @@
 {
-  "generatedAt": "2026-09-28T14:21:01.640Z",
+  "generatedAt": "2026-09-29T13:13:47.631Z",
   "items": [
     {
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 338 # Comments: 260",
-      "date": "2026-09-28T08:35:40.000Z"
-    },
-    {
-      "title": "Who’s liable when AI agents go rogue?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "title": "Making AI an asset, not an expense",
+      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-      "date": "2026-09-28T08:06:22.000Z"
+      "blurb": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
+      "date": "2026-09-29T10:43:45.000Z"
     },
     {
-      "title": "Prompting Claude Opus 5.5",
-      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49874728 Points: 168 # Comments: 178",
-      "date": "2026-09-28T07:33:29.000Z"
+      "blurb": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 202 # Comments: 52",
+      "date": "2026-09-29T09:03:41.000Z"
     },
     {
-      "title": "Quoting Muse AI Agent",
-      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-      "source": "Simon Willison",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"><p>Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.</p> <p>Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made t",
-      "date": "2026-09-28T04:01:30.000Z"
+      "blurb": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
+      "date": "2026-09-28T22:17:07.000Z"
     },
     {
-      "title": "2026 in LLMs (so far)",
-      "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "title": "Claude Sonnet 5.5",
+      "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p>On Friday I gave the closing keynote at the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video <a href=\"https://www.youtube.com/watch?v=GAkIytR7vcc\">is on YouTube</a>; here are my annot",
-      "date": "2026-09-27T23:54:15.000Z"
+      "blurb": "<p><strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\">Claude Sonnet 5.5</a></strong></p> New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.</p> <p><a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=",
+      "date": "2026-09-28T22:07:38.000Z"
     },
     {
-      "title": "S3 Is the Future, S3 Is the Past",
-      "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
-      "source": "Simon Willison",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "link": "https://github.com/firelex/jeff",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in <em>a full decade</em>:</p> <pre><code>2006-03-14 $0.150/GB-mo",
-      "date": "2026-09-27T23:09:19.000Z"
+      "blurb": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 526 # Comments: 200",
+      "date": "2026-09-28T20:23:36.000Z"
     },
     {
-      "title": "Bluesky reply bot checker",
-      "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "title": "Quoting @joedaroo",
+      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/bluesky-bot-check\">Bluesky reply bot checker</a></p> <p>Automated reply bots on Twitter are a <em>scourge</em> - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies.</p> <p>They've started manifesting on Bluesky as well.</p> <p>Unlike",
-      "date": "2026-09-27T18:41:44.000Z"
+      "blurb": "<blockquote cite=\"https://twitter.com/joedaroo/status/2104335929293127851\"><p>To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrai",
+      "date": "2026-09-28T19:11:42.000Z"
+    },
+    {
+      "title": "The Hidden Side of Student AI Use: Mental Health, Access and Risk",
+      "link": "https://edtechmagazine.com/k12/article/2026/09/hidden-side-student-ai-use-mental-health-access-and-risk",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "When schools talk about students using artificial intelligence, the conversation often begins with assignments. Are students using AI to brainstorm, summarize or complete work they should be doing themselves? Those questions matter, but academic use is only one part of what schools need to consider. Schoolwork-related AI use is often visible. For the past three years, I have encouraged educators t",
+      "date": "2026-09-28T19:08:24.000Z"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "date": "2026-09-28T19:00:00.000Z"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "date": "2026-09-28T19:00:00.000Z"
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "link": "https://stateofutopia.com/experiments/microllmlab/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 261 # Comments: 91",
+      "date": "2026-09-28T18:58:53.000Z"
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+      "date": "2026-09-28T17:03:16.000Z"
+    },
+    {
+      "title": "How AI Is Transforming the Role of the K–12 Device",
+      "link": "https://edtechmagazine.com/k12/article/2026/09/how-ai-transforming-role-k-12-device",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "Digital devices used for K–12 learning have traditionally provided access to productivity software, research and digital assignments. But now, artificial intelligence technology is enabling devices to generate instructional material, guide students through problems and connect classroom workflows. The question for districts is no longer only whether a device can run required applications, but how ",
+      "date": "2026-09-28T15:33:39.000Z"
     }
   ]
 }
