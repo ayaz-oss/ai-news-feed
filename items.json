@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-09-29T13:13:47.631Z",
+  "generatedAt": "2026-09-30T12:54:35.389Z",
   "items": [
     {
-      "title": "Making AI an asset, not an expense",
-      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
-      "date": "2026-09-29T10:43:45.000Z"
+      "blurb": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
+      "date": "2026-09-30T10:40:30.000Z"
     },
     {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "title": "Pi.dev: You Said No MCP",
+      "link": "https://earendil.com/posts/you-said-no-mcp/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 202 # Comments: 52",
-      "date": "2026-09-29T09:03:41.000Z"
+      "blurb": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 203 # Comments: 86",
+      "date": "2026-09-30T09:55:23.000Z"
     },
     {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
-      "date": "2026-09-28T22:17:07.000Z"
+      "title": "Can Schools Trust AI Features in Edtech Products?",
+      "link": "https://edsurge.com/news/can-schools-trust-ai-features-in-edtech-products",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "In this episode of This Week with EdSurge, two former educators explain why it is so important to verify the efficacy of the tools that schools bring ...",
+      "date": "2026-09-30T00:00:00.000Z"
     },
     {
-      "title": "Claude Sonnet 5.5",
-      "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "title": "Quoting Anthropic Frontier Red Team",
+      "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\">Claude Sonnet 5.5</a></strong></p> New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.</p> <p><a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=",
-      "date": "2026-09-28T22:07:38.000Z"
+      "blurb": "<blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"><p>We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a m",
+      "date": "2026-09-29T22:20:28.000Z"
     },
     {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "link": "https://github.com/firelex/jeff",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 526 # Comments: 200",
-      "date": "2026-09-28T20:23:36.000Z"
-    },
-    {
-      "title": "Quoting @joedaroo",
-      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://twitter.com/joedaroo/status/2104335929293127851\"><p>To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrai",
-      "date": "2026-09-28T19:11:42.000Z"
+      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=49896586#49898129\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49896586\">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a> &mdash; Hacker News.</p><p>I'm a bit late with the pelicans because I was live-blogging the keynote: <a href=\"https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/\">https://simon",
+      "date": "2026-09-29T18:27:48.000Z"
     },
     {
-      "title": "The Hidden Side of Student AI Use: Mental Health, Access and Risk",
-      "link": "https://edtechmagazine.com/k12/article/2026/09/hidden-side-student-ai-use-mental-health-access-and-risk",
-      "source": "EdTech K-12",
-      "tag": "education",
-      "blurb": "When schools talk about students using artificial intelligence, the conversation often begins with assignments. Are students using AI to brainstorm, summarize or complete work they should be doing themselves? Those questions matter, but academic use is only one part of what schools need to consider. Schoolwork-related AI use is often visible. For the past three years, I have encouraged educators t",
-      "date": "2026-09-28T19:08:24.000Z"
-    },
-    {
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "date": "2026-09-28T19:00:00.000Z"
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "date": "2026-09-28T19:00:00.000Z"
-    },
-    {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "link": "https://stateofutopia.com/experiments/microllmlab/",
+      "title": "Dots: Always-on agents",
+      "link": "https://openai.com/index/introducing-dots/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 261 # Comments: 91",
-      "date": "2026-09-28T18:58:53.000Z"
+      "blurb": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 658 # Comments: 521",
+      "date": "2026-09-29T17:07:57.000Z"
     },
     {
-      "title": "When can we say AI made a scientific discovery?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Tech Review",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-      "date": "2026-09-28T17:03:16.000Z"
+      "blurb": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 986 # Comments: 864",
+      "date": "2026-09-29T17:06:45.000Z"
     },
     {
-      "title": "How AI Is Transforming the Role of the K–12 Device",
-      "link": "https://edtechmagazine.com/k12/article/2026/09/how-ai-transforming-role-k-12-device",
-      "source": "EdTech K-12",
+      "title": "OpenAI DevDay 2026 live blog",
+      "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p>I'm at <a href=\"https://devday.openai.com/\">OpenAI DevDay</a> today, in Fort Mason, San Francisco. Same as <a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\">last year</a> I'll be live blogging the keynote and some other notes during the day.</p> <p><em>OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.</em></p> <p>Tags: <a href=\"https://simonwil",
+      "date": "2026-09-29T15:55:13.000Z"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "date": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "title": "Study: EdTech Is Rushing AI Integration Before Proving It Works",
+      "link": "https://edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works",
+      "source": "EdSurge",
       "tag": "education",
-      "blurb": "Digital devices used for K–12 learning have traditionally provided access to productivity software, research and digital assignments. But now, artificial intelligence technology is enabling devices to generate instructional material, guide students through problems and connect classroom workflows. The question for districts is no longer only whether a device can run required applications, but how ",
-      "date": "2026-09-28T15:33:39.000Z"
+      "blurb": "As AI features flood K-12 curricula, educators are left to filter proven quality from marketing hype.",
+      "date": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing dots",
+      "link": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "date": "2026-09-29T00:00:00.000Z"
     }
   ]
 }
