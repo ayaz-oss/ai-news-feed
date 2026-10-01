@@ -1,101 +1,93 @@
 {
-  "generatedAt": "2026-09-30T12:54:35.389Z",
+  "generatedAt": "2026-10-01T13:46:06.842Z",
   "items": [
     {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
-      "date": "2026-09-30T10:40:30.000Z"
-    },
-    {
-      "title": "Pi.dev: You Said No MCP",
-      "link": "https://earendil.com/posts/you-said-no-mcp/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 203 # Comments: 86",
-      "date": "2026-09-30T09:55:23.000Z"
-    },
-    {
-      "title": "Can Schools Trust AI Features in Edtech Products?",
-      "link": "https://edsurge.com/news/can-schools-trust-ai-features-in-edtech-products",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "In this episode of This Week with EdSurge, two former educators explain why it is so important to verify the efficacy of the tools that schools bring ...",
-      "date": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "title": "Quoting Anthropic Frontier Red Team",
-      "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+      "title": "Quoting Matthew Green",
+      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"><p>We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a m",
-      "date": "2026-09-29T22:20:28.000Z"
+      "blurb": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"><p>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a share",
+      "date": "2026-10-01T06:29:01.000Z"
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+      "title": "He Built This City",
+      "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=49896586#49898129\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49896586\">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a> &mdash; Hacker News.</p><p>I'm a bit late with the pelicans because I was live-blogging the keynote: <a href=\"https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/\">https://simon",
-      "date": "2026-09-29T18:27:48.000Z"
+      "blurb": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.</p> <p>It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it ",
+      "date": "2026-09-30T21:54:19.000Z"
     },
     {
-      "title": "Dots: Always-on agents",
-      "link": "https://openai.com/index/introducing-dots/",
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "source": "Ars Technica",
+      "tag": "dev",
+      "blurb": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "date": "2026-09-30T20:44:48.000Z"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 658 # Comments: 521",
-      "date": "2026-09-29T17:07:57.000Z"
+      "blurb": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 1490 # Comments: 991",
+      "date": "2026-09-30T20:04:37.000Z"
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "link": "https://www.mattkeeter.com/projects/halfspace/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 986 # Comments: 864",
-      "date": "2026-09-29T17:06:45.000Z"
+      "blurb": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 156 # Comments: 9",
+      "date": "2026-09-30T19:44:37.000Z"
     },
     {
-      "title": "OpenAI DevDay 2026 live blog",
-      "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 214 # Comments: 83",
+      "date": "2026-09-30T19:04:50.000Z"
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on loca",
+      "date": "2026-09-30T17:37:40.000Z"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "date": "2026-09-30T10:30:00.000Z"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "date": "2026-09-30T10:00:00.000Z"
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "link": "https://github.com/maanHimself/OpenDLSS-NR",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://github.com/maanHimself/OpenDLSS-NR Comments URL: https://news.ycombinator.com/item?id=49906100 Points: 154 # Comments: 88",
+      "date": "2026-09-30T08:43:21.000Z"
+    },
+    {
+      "title": "Photo Scrubber — local face blur & metadata removal",
+      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p>I'm at <a href=\"https://devday.openai.com/\">OpenAI DevDay</a> today, in Fort Mason, San Francisco. Same as <a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\">last year</a> I'll be live blogging the keynote and some other notes during the day.</p> <p><em>OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.</em></p> <p>Tags: <a href=\"https://simonwil",
-      "date": "2026-09-29T15:55:13.000Z"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29T10:00:00.000Z"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "date": "2026-09-29T10:00:00.000Z"
-    },
-    {
-      "title": "Study: EdTech Is Rushing AI Integration Before Proving It Works",
-      "link": "https://edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "As AI features flood K-12 curricula, educators are left to filter proven quality from marketing hype.",
-      "date": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "title": "Introducing dots",
-      "link": "https://openai.com/index/introducing-dots",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "date": "2026-09-29T00:00:00.000Z"
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/photo-scrubber\">Photo Scrubber — local face blur &amp; metadata removal</a></p> <p>I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I <a href=\"https://github.com/simonw/tools/commit/aa733ecc3458d5703e3b40c84507ae362f5fb294\">had GPT-6 Astra build</a",
+      "date": "2026-09-29T16:45:27.000Z"
     }
   ]
 }
