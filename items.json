@@ -1,93 +1,69 @@
 {
-  "generatedAt": "2026-10-01T13:46:06.842Z",
+  "generatedAt": "2026-10-02T13:01:24.751Z",
   "items": [
     {
-      "title": "Quoting Matthew Green",
-      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "source": "Simon Willison",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"><p>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a share",
-      "date": "2026-10-01T06:29:01.000Z"
+      "blurb": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+      "date": "2026-10-02T08:00:00.000Z"
     },
     {
-      "title": "He Built This City",
-      "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.</p> <p>It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it ",
-      "date": "2026-09-30T21:54:19.000Z"
+      "title": "Google Launches New AI Tools Purpose-Built for Education",
+      "link": "https://edtechmagazine.com/k12/article/2026/10/google-launches-new-ai-tools-purpose-built-education",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "Google has rolled out a wave of new artificial intelligence features across its ecosystem of products purpose-built for education. At the heart of these features sits Google Classroom, a learning hub for teachers and students globally. From bringing Classroom information directly into Gemini to bringing AI-powered scaffolding to learning journeys in Classroom, schools can now experience the best o",
+      "date": "2026-10-01T18:16:46.000Z"
     },
     {
-      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-      "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-      "source": "Ars Technica",
-      "tag": "dev",
-      "blurb": "A simple email gives the attackers the ability to remotely inject OS commands.",
-      "date": "2026-09-30T20:44:48.000Z"
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "link": "https://stoppels.ch/goalposts/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 1490 # Comments: 991",
-      "date": "2026-09-30T20:04:37.000Z"
+      "blurb": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 170 # Comments: 195",
+      "date": "2026-10-01T17:32:43.000Z"
     },
     {
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "link": "https://www.mattkeeter.com/projects/halfspace/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 156 # Comments: 9",
-      "date": "2026-09-30T19:44:37.000Z"
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 214 # Comments: 83",
-      "date": "2026-09-30T19:04:50.000Z"
-    },
-    {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "link": "https://github.com/magnitudedev/magnitude",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on loca",
-      "date": "2026-09-30T17:37:40.000Z"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "date": "2026-09-30T10:30:00.000Z"
+      "blurb": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "date": "2026-10-01T17:00:00.000Z"
     },
     {
-      "title": "Helping small businesses put AI to work",
-      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "date": "2026-09-30T10:00:00.000Z"
-    },
-    {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "link": "https://github.com/maanHimself/OpenDLSS-NR",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://github.com/maanHimself/OpenDLSS-NR Comments URL: https://news.ycombinator.com/item?id=49906100 Points: 154 # Comments: 88",
-      "date": "2026-09-30T08:43:21.000Z"
+      "blurb": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 547 # Comments: 194",
+      "date": "2026-10-01T16:18:57.000Z"
     },
     {
-      "title": "Photo Scrubber — local face blur & metadata removal",
-      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-      "source": "Simon Willison",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/photo-scrubber\">Photo Scrubber — local face blur &amp; metadata removal</a></p> <p>I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I <a href=\"https://github.com/simonw/tools/commit/aa733ecc3458d5703e3b40c84507ae362f5fb294\">had GPT-6 Astra build</a",
-      "date": "2026-09-29T16:45:27.000Z"
+      "blurb": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "date": "2026-10-01T16:00:00.000Z"
+    },
+    {
+      "title": "Context Language Models",
+      "link": "https://arxiv.org/abs/2609.37725",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://arxiv.org/abs/2609.37725 Comments URL: https://news.ycombinator.com/item?id=49922437 Points: 155 # Comments: 41",
+      "date": "2026-10-01T14:51:33.000Z"
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "date": "2026-10-01T00:00:00.000Z"
     }
   ]
 }
