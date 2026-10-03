@@ -1,69 +1,77 @@
 {
-  "generatedAt": "2026-10-02T13:01:24.751Z",
+  "generatedAt": "2026-10-03T11:55:42.581Z",
   "items": [
     {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "tag": "dev",
+      "blurb": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "date": "2026-10-02T23:03:16.000Z"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 265 # Comments: 68",
+      "date": "2026-10-02T18:01:16.000Z"
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "date": "2026-10-02T16:15:00.000Z"
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
-      "date": "2026-10-02T08:00:00.000Z"
+      "blurb": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+      "date": "2026-10-02T15:49:04.000Z"
     },
     {
-      "title": "Google Launches New AI Tools Purpose-Built for Education",
-      "link": "https://edtechmagazine.com/k12/article/2026/10/google-launches-new-ai-tools-purpose-built-education",
-      "source": "EdTech K-12",
-      "tag": "education",
-      "blurb": "Google has rolled out a wave of new artificial intelligence features across its ecosystem of products purpose-built for education. At the heart of these features sits Google Classroom, a learning hub for teachers and students globally. From bringing Classroom information directly into Gemini to bringing AI-powered scaffolding to learning journeys in Classroom, schools can now experience the best o",
-      "date": "2026-10-01T18:16:46.000Z"
-    },
-    {
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "link": "https://stoppels.ch/goalposts/",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 170 # Comments: 195",
-      "date": "2026-10-01T17:32:43.000Z"
+      "blurb": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 224 # Comments: 110",
+      "date": "2026-10-02T14:11:24.000Z"
     },
     {
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "date": "2026-10-01T17:00:00.000Z"
-    },
-    {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 547 # Comments: 194",
-      "date": "2026-10-01T16:18:57.000Z"
+      "blurb": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 251 # Comments: 82",
+      "date": "2026-10-02T02:51:27.000Z"
     },
     {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "date": "2026-10-01T16:00:00.000Z"
-    },
-    {
-      "title": "Context Language Models",
-      "link": "https://arxiv.org/abs/2609.37725",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://arxiv.org/abs/2609.37725 Comments URL: https://news.ycombinator.com/item?id=49922437 Points: 155 # Comments: 41",
-      "date": "2026-10-01T14:51:33.000Z"
+      "blurb": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 289 # Comments: 92",
+      "date": "2026-10-02T00:27:56.000Z"
     },
     {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "date": "2026-10-01T00:00:00.000Z"
+      "blurb": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "date": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "link": "https://chatgpt.com/features/sites/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://chatgpt.com/features/sites/ Comments URL: https://news.ycombinator.com/item?id=49927747 Points: 290 # Comments: 262",
+      "date": "2026-10-01T22:22:21.000Z"
     }
   ]
 }
