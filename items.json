@@ -1,77 +1,53 @@
 {
-  "generatedAt": "2026-10-03T11:55:42.581Z",
+  "generatedAt": "2026-10-04T12:46:33.150Z",
   "items": [
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "source": "Ars Technica",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "date": "2026-10-02T23:03:16.000Z"
+      "blurb": "<p>Here's a product feature which the world is going to need a whole lot more of over the coming months and years: <strong>default hard budget caps</strong>. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be <strong>hard</strong> limits. Soft caps, \"after $X/month, send me a warning email\", wil",
+      "date": "2026-10-03T23:34:02.000Z"
     },
     {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "link": "https://dwarfstar.sh/",
+      "title": "September sponsors-only newsletter",
+      "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p>I just sent the September edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-09-september.md\">access it here</a>.</p> <p>This month:</p> <ul> <li>More Fable class models</li> <li>A pricing war</li> <li>3D graphics, Blender, an",
+      "date": "2026-10-03T22:00:31.000Z"
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 265 # Comments: 68",
-      "date": "2026-10-02T18:01:16.000Z"
+      "blurb": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 183 # Comments: 277",
+      "date": "2026-10-03T17:44:29.000Z"
     },
     {
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "date": "2026-10-02T16:15:00.000Z"
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
-      "date": "2026-10-02T15:49:04.000Z"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "title": "Agents don't need memory, they need documentation",
+      "link": "https://liao.gg/blog/agents-dont-need-memory",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 224 # Comments: 110",
-      "date": "2026-10-02T14:11:24.000Z"
+      "blurb": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 223 # Comments: 127",
+      "date": "2026-10-03T17:03:37.000Z"
     },
     {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "title": "I quit OpenAI because its culture is broken",
+      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 251 # Comments: 82",
-      "date": "2026-10-02T02:51:27.000Z"
+      "blurb": "https://archive.ph/5GQx8https://www.theguardian.com/technology/2026/oct/03/openai-sa... Comments URL: https://news.ycombinator.com/item?id=49944227 Points: 281 # Comments: 527",
+      "date": "2026-10-03T13:46:34.000Z"
     },
     {
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "link": "https://stillwet.art/",
-      "source": "Hacker News",
+      "title": "Rex's Dino Store",
+      "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 289 # Comments: 92",
-      "date": "2026-10-02T00:27:56.000Z"
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "date": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "Sites in ChatGPT",
-      "link": "https://chatgpt.com/features/sites/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://chatgpt.com/features/sites/ Comments URL: https://news.ycombinator.com/item?id=49927747 Points: 290 # Comments: 262",
-      "date": "2026-10-01T22:22:21.000Z"
+      "blurb": "<p><strong>Museum:</strong> <a href=\"https://www.niche-museums.com/119\">Rex&#x27;s Dino Store</a></p> <p>Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur.</p> <p>The density of dinosaur puns is <em>exceptional</em>.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/",
+      "date": "2026-10-02T22:57:38.000Z"
     }
   ]
 }
