@@ -1,29 +1,93 @@
 {
-  "generatedAt": "2026-10-05T15:09:59.533Z",
+  "generatedAt": "2026-10-06T13:31:37.230Z",
   "items": [
     {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Tech Review",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "link": "https://www.helgilibrary.com/companies/jetbrains",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
-      "date": "2026-10-05T13:29:32.000Z"
+      "blurb": "Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 163 # Comments: 145",
+      "date": "2026-10-06T11:45:55.000Z"
     },
     {
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "Quoting Felix Rieseberg",
+      "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://twitter.com/felixrieseberg/status/2107206431376334975\"><p>The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claud",
+      "date": "2026-10-05T23:56:47.000Z"
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica",
+      "tag": "dev",
+      "blurb": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "date": "2026-10-05T22:26:35.000Z"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 233 # Comments: 61",
+      "date": "2026-10-05T21:15:07.000Z"
+    },
+    {
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 403 # Comments: 271",
+      "date": "2026-10-05T21:00:21.000Z"
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "link": "https://reflection.ai/blog/introducing-beam",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 484 # Comments: 156",
+      "date": "2026-10-05T19:16:35.000Z"
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…",
+      "date": "2026-10-05T15:47:52.000Z"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "date": "2026-10-05T10:00:00.000Z"
+      "blurb": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "date": "2026-10-05T15:00:00.000Z"
     },
     {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
-      "date": "2026-10-05T08:00:00.000Z"
+      "blurb": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
+      "date": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "title": "Will Kids Pay the Price for AI Panic?",
+      "link": "https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "A backlash against classroom AI is sweeping public schools. But as New Mexico shows, blanket bans risk robbing students of early literacy interventions.",
+      "date": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "title": "Qwen3.8 27B addition in words",
+      "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/qwen38-addition-in-words#readme\">Qwen3.8 27B addition in words</a></p> <p>Colin Frasier <a href=\"https://bsky.app/profile/colin-fraser.net/post/3mwopbyznhs2k\">posted on Bluesky</a> about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" ac",
+      "date": "2026-10-04T23:34:00.000Z"
     }
   ]
 }
