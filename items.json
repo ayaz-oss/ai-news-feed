@@ -1,93 +1,101 @@
 {
-  "generatedAt": "2026-10-06T13:31:37.230Z",
+  "generatedAt": "2026-10-07T13:45:26.605Z",
   "items": [
     {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "link": "https://www.helgilibrary.com/companies/jetbrains",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 163 # Comments: 145",
-      "date": "2026-10-06T11:45:55.000Z"
-    },
-    {
-      "title": "Quoting Felix Rieseberg",
-      "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "title": "Quoting Jake Boggan",
+      "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://twitter.com/felixrieseberg/status/2107206431376334975\"><p>The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claud",
-      "date": "2026-10-05T23:56:47.000Z"
+      "blurb": "<blockquote cite=\"https://news.ycombinator.com/item?id=49984923#49987367\"><p>I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days t",
+      "date": "2026-10-07T04:47:55.000Z"
     },
     {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\">OpenAI “rogue” agent activities found on Wikimedia projects</a></strong></p> Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking:</p> <blockquote> <p>The Wikimedia Fou",
+      "date": "2026-10-07T00:16:45.000Z"
+    },
+    {
+      "title": "Quoting Victoria Kim",
+      "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/94c8067e-4098-5c00-9673-c78cb58a9d8a\"><p>Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said.</p></block",
+      "date": "2026-10-06T23:58:56.000Z"
+    },
+    {
+      "title": "llm-openai-decisions 0.1a0",
+      "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0\">llm-openai-decisions 0.1a0</a></p> <p>OpenAI released their new Jev-style <a href=\"https://developers.openai.com/api/docs/guides/decisions\">Decisions API</a>, as previously announced at last week's DevDay.</p> <p>Since I already have an <a href=\"https://github.com/simonw/llm-typesafe\">llm-types",
+      "date": "2026-10-06T23:04:13.000Z"
+    },
+    {
+      "title": "llm-mistral 0.16",
+      "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mistral/releases/tag/0.16\">llm-mistral 0.16</a></p> <p>Adds support for reasoning models, such as the newly released <a href=\"https://simonwillison.net/2026/Oct/6/le-chonk/\">Mistral Large 4</a>.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/mistral\">mistral</a>, <a href=",
+      "date": "2026-10-06T21:32:34.000Z"
+    },
+    {
+      "title": "EmbeddingGemma 2",
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=49980487#49983751\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49980487\">EmbeddingGemma 2</a> &mdash; Hacker News.</p><p>I really appreciate that <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/\">EmbeddingGemma 2</a> is under the Apache 2.0 license.</p> <p>For embedding models in partic",
+      "date": "2026-10-06T20:37:53.000Z"
+    },
+    {
+      "title": "Introducing Mistral Large 4: Le chonk",
+      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://mistral.ai/news/mistral-large-4/\">Introducing Mistral Large 4: Le chonk</a></strong></p> Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs.</p> <p>The preview is available via their API. They promise to release the",
+      "date": "2026-10-06T20:18:19.000Z"
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
       "source": "Ars Technica",
       "tag": "dev",
-      "blurb": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-      "date": "2026-10-05T22:26:35.000Z"
+      "blurb": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "date": "2026-10-06T19:21:14.000Z"
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "link": "https://qlabs.sh/research/dust",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 233 # Comments: 61",
-      "date": "2026-10-05T21:15:07.000Z"
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 403 # Comments: 271",
-      "date": "2026-10-05T21:00:21.000Z"
-    },
-    {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "link": "https://reflection.ai/blog/introducing-beam",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 484 # Comments: 156",
-      "date": "2026-10-05T19:16:35.000Z"
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…",
-      "date": "2026-10-05T15:47:52.000Z"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "date": "2026-10-05T15:00:00.000Z"
-    },
-    {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
-      "date": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "title": "Will Kids Pay the Price for AI Panic?",
-      "link": "https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "A backlash against classroom AI is sweeping public schools. But as New Mexico shows, blanket bans risk robbing students of early literacy interventions.",
-      "date": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "title": "Qwen3.8 27B addition in words",
-      "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "title": "Using Parseable with Datasette for OpenTelemetry traces",
+      "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/qwen38-addition-in-words#readme\">Qwen3.8 27B addition in words</a></p> <p>Colin Frasier <a href=\"https://bsky.app/profile/colin-fraser.net/post/3mwopbyznhs2k\">posted on Bluesky</a> about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" ac",
-      "date": "2026-10-04T23:34:00.000Z"
+      "blurb": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry\">Using Parseable with Datasette for OpenTelemetry traces</a></p> <p>I <a href=\"https://news.ycombinator.com/item?id=49978171\">saw Parseable in a Show HN</a> today - it's a new observability platform with both an <a href=\"https://github.com/parseablehq/parseable\">open source (AGPL)</a> Rust i",
+      "date": "2026-10-06T19:07:31.000Z"
+    },
+    {
+      "title": "Mistral Large 4",
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=49977979#49982139\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49977979\">Mistral Large 4</a> &mdash; Hacker News.</p><blockquote> <p><a href=\"https://news.ycombinator.com/item?id=49977979#49979658\">wren6991</a>: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars.</p> </bl",
+      "date": "2026-10-06T18:20:58.000Z"
+    },
+    {
+      "title": "datasette-atom 0.11a0",
+      "link": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-atom/releases/tag/0.11a0\">datasette-atom 0.11a0</a></p> <p>A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the <a href=\"https://datasette.io/\">datasette.io</a> site to Datasette 1.0a41.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/atom\">atom</a>, <a href=\"https://simonwilli",
+      "date": "2026-10-06T17:35:39.000Z"
+    },
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "date": "2026-10-06T16:00:00.000Z"
     }
   ]
 }
