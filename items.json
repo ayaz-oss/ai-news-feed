@@ -1,61 +1,53 @@
 {
-  "generatedAt": "2026-10-10T12:54:49.227Z",
+  "generatedAt": "2026-10-11T13:18:32.150Z",
   "items": [
     {
-      "title": "Quoting The New York Times",
-      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "title": "Dwarf Fortress uses version control now",
+      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\"><p>Anthropic detailed the activity of its A.I. agents in <a href=\"https://www.anthropic.com/research/investigating-unintended-model-actions\">a blog post</a> on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa",
-      "date": "2026-10-10T02:04:12.000Z"
+      "blurb": "<p>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control <em>more</em>. That's art.</p> <p>I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time:</p> <",
+      "date": "2026-10-11T00:52:37.000Z"
     },
     {
-      "title": "Deno is joining Cloudflare",
-      "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://deno.com/blog/cloudflare\">Deno is joining Cloudflare</a></strong></p> The Deno team released the first version of <a href=\"https://github.com/denoland/celld\">celld</a> back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers.</p> <p>Today, Cloudflare are acquiring Deno outright, with the goal of building on <code>celld</co",
-      "date": "2026-10-09T22:48:37.000Z"
+      "blurb": "<p><strong><a href=\"https://github.com/actions/python-versions/commit/49858b91c92d27403416ee43117032e91d00ce24\">Python 3.15.0 added to actions/python-versions</a></strong></p> Bit of a niche link, but I've been waiting for this for a couple of days - I even <a href=\"https://chatgpt.com/share/6acad42a-2868-83e8-9a16-736f9def2b45\">told ChatGPT</a> to check for it:</p> <blockquote> <p><code>Clone htt",
+      "date": "2026-10-10T23:58:04.000Z"
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 384 # Comments: 301",
-      "date": "2026-10-09T17:02:31.000Z"
+      "blurb": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 362 # Comments: 79",
+      "date": "2026-10-10T22:50:10.000Z"
     },
     {
-      "title": "Quoting Matthew Green",
-      "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://twitter.com/matthew_d_green/status/2108552414978564418\"><p>Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]</p> <p>The problem here is that the sp",
-      "date": "2026-10-09T15:02:29.000Z"
-    },
-    {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 156 # Comments: 80",
-      "date": "2026-10-09T11:36:20.000Z"
+      "blurb": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 303 # Comments: 137",
+      "date": "2026-10-10T10:52:09.000Z"
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "date": "2026-10-09T07:00:00.000Z"
+      "blurb": "Article URL: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/ Comments URL: https://news.ycombinator.com/item?id=50021899 Points: 159 # Comments: 66",
+      "date": "2026-10-09T15:26:33.000Z"
     },
     {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI News",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "date": "2026-10-08T00:00:00.000Z"
+      "blurb": "Article URL: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50016956 Points: 199 # Comments: 58",
+      "date": "2026-10-09T06:52:49.000Z"
     }
   ]
 }
