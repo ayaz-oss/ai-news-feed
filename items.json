@@ -1,53 +1,29 @@
 {
-  "generatedAt": "2026-10-11T13:18:32.150Z",
+  "generatedAt": "2026-10-12T15:55:54.426Z",
   "items": [
     {
-      "title": "Dwarf Fortress uses version control now",
-      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control <em>more</em>. That's art.</p> <p>I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time:</p> <",
-      "date": "2026-10-11T00:52:37.000Z"
-    },
-    {
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://github.com/actions/python-versions/commit/49858b91c92d27403416ee43117032e91d00ce24\">Python 3.15.0 added to actions/python-versions</a></strong></p> Bit of a niche link, but I've been waiting for this for a couple of days - I even <a href=\"https://chatgpt.com/share/6acad42a-2868-83e8-9a16-736f9def2b45\">told ChatGPT</a> to check for it:</p> <blockquote> <p><code>Clone htt",
-      "date": "2026-10-10T23:58:04.000Z"
-    },
-    {
-      "title": "Build your own decision model",
-      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "title": "Why aren't AI companies being charged for hacking?",
+      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 362 # Comments: 79",
-      "date": "2026-10-10T22:50:10.000Z"
+      "blurb": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 210 # Comments: 174",
+      "date": "2026-10-12T14:52:37.000Z"
     },
     {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "link": "https://github.com/rociiu/talorys",
+      "title": "QGIS bans AI assisted contributions",
+      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 303 # Comments: 137",
-      "date": "2026-10-10T10:52:09.000Z"
+      "blurb": "Article URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 292 # Comments: 300",
+      "date": "2026-10-12T11:22:24.000Z"
     },
     {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/ Comments URL: https://news.ycombinator.com/item?id=50021899 Points: 159 # Comments: 66",
-      "date": "2026-10-09T15:26:33.000Z"
-    },
-    {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50016956 Points: 199 # Comments: 58",
-      "date": "2026-10-09T06:52:49.000Z"
+      "blurb": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 585 # Comments: 843",
+      "date": "2026-10-11T20:20:52.000Z"
     }
   ]
 }
