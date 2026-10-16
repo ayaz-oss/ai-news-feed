@@ -1,77 +1,69 @@
 {
-  "generatedAt": "2026-10-15T11:56:45.272Z",
+  "generatedAt": "2026-10-16T11:47:15.394Z",
   "items": [
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 229 # Comments: 54",
-      "date": "2026-10-14T23:59:37.000Z"
-    },
-    {
-      "title": "Tree Appreciator",
-      "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "title": "Chirp Pong",
+      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/tree-appreciator\">Tree Appreciator</a></p> <p>Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:</p> <blockquote> <p><code>Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and",
-      "date": "2026-10-14T21:23:01.000Z"
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/chirp-pong\">Chirp Pong</a></p> <p>Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!</p> <blockquote> <p><code>Build a two player competitive pong like game where two pla",
+      "date": "2026-10-15T19:47:52.000Z"
     },
     {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "date": "2026-10-15T19:00:00.000Z"
+    },
+    {
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 913 # Comments: 550",
-      "date": "2026-10-14T17:45:23.000Z"
+      "blurb": "Article URL: https://www.krea.ai/krea-3 Comments URL: https://news.ycombinator.com/item?id=50105648 Points: 315 # Comments: 101",
+      "date": "2026-10-15T16:04:05.000Z"
     },
     {
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "title": "Neural networks are clean",
+      "link": "https://already-clean.goodfire.com/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "https://twitter.com/nickcammarata/status/2110757819427574056 Comments URL: https://news.ycombinator.com/item?id=50105647 Points: 715 # Comments: 266",
+      "date": "2026-10-15T16:04:01.000Z"
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 206 # Comments: 187",
+      "date": "2026-10-15T14:35:15.000Z"
+    },
+    {
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/\">AI is mass decompiling games. That&#x27;s both awesome and scary.</a></strong></p> Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get o",
-      "date": "2026-10-14T16:26:53.000Z"
+      "blurb": "<p><strong><a href=\"https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1\">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a></strong></p> The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"<a href=\"https://simonwillison.net/2",
+      "date": "2026-10-15T13:04:03.000Z"
     },
     {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "source": "Ars Technica",
-      "tag": "dev",
-      "blurb": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "date": "2026-10-14T12:55:06.000Z"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
+      "title": "Teaching students to think and learn through questions",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "date": "2026-10-14T12:00:00.000Z"
+      "blurb": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "date": "2026-10-15T13:00:00.000Z"
     },
     {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://openai.com/index/sentinelone",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "link": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "date": "2026-10-14T12:00:00.000Z"
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "link": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "date": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "link": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "date": "2026-10-14T07:00:00.000Z"
+      "blurb": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "date": "2026-10-15T00:00:00.000Z"
     }
   ]
 }
