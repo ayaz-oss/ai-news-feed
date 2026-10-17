@@ -1,69 +1,101 @@
 {
-  "generatedAt": "2026-10-16T11:47:15.394Z",
+  "generatedAt": "2026-10-17T11:04:15.696Z",
   "items": [
     {
-      "title": "Chirp Pong",
-      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "link": "https://simonwillison.net/2026/Oct/16/code-review/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/chirp-pong\">Chirp Pong</a></p> <p>Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!</p> <blockquote> <p><code>Build a two player competitive pong like game where two pla",
-      "date": "2026-10-15T19:47:52.000Z"
+      "blurb": "<blockquote cite=\"https://claude.dev/blog/solving-code-review-at-anthropic/\"><p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"</p> <p>Asking that question also changed <em>when</em> review happens. Before, review was a gate at the end of the road: write the code, open a PR, wai",
+      "date": "2026-10-16T22:06:37.000Z"
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI News",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
       "tag": "dev",
-      "blurb": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "date": "2026-10-15T19:00:00.000Z"
+      "blurb": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "date": "2026-10-16T20:59:01.000Z"
     },
     {
-      "title": "Krea 3 – An image model built for editing at scale",
-      "link": "https://www.krea.ai/krea-3",
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.krea.ai/krea-3 Comments URL: https://news.ycombinator.com/item?id=50105648 Points: 315 # Comments: 101",
-      "date": "2026-10-15T16:04:05.000Z"
+      "blurb": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 357 # Comments: 332",
+      "date": "2026-10-16T19:04:47.000Z"
     },
     {
-      "title": "Neural networks are clean",
-      "link": "https://already-clean.goodfire.com/",
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "https://twitter.com/nickcammarata/status/2110757819427574056 Comments URL: https://news.ycombinator.com/item?id=50105647 Points: 715 # Comments: 266",
-      "date": "2026-10-15T16:04:01.000Z"
+      "blurb": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 315 # Comments: 73",
+      "date": "2026-10-16T19:01:17.000Z"
     },
     {
-      "title": "Using AI to reverse engineer hardware",
-      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "date": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 206 # Comments: 187",
-      "date": "2026-10-15T14:35:15.000Z"
+      "blurb": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 884 # Comments: 328",
+      "date": "2026-10-16T18:55:59.000Z"
     },
     {
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "source": "Simon Willison",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "link": "https://github.com/cobanov/PS5LM",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1\">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a></strong></p> The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"<a href=\"https://simonwillison.net/2",
-      "date": "2026-10-15T13:04:03.000Z"
+      "blurb": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 295 # Comments: 74",
+      "date": "2026-10-16T18:32:35.000Z"
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "date": "2026-10-16T18:00:00.000Z"
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 511 # Comments: 435",
+      "date": "2026-10-16T17:08:38.000Z"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "link": "https://starskirmish.com/bench/v0-2/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 225 # Comments: 101",
+      "date": "2026-10-16T14:18:44.000Z"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "date": "2026-10-15T13:00:00.000Z"
+      "blurb": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16T00:00:00.000Z"
     },
     {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "link": "https://openai.com/index/sullivan-cromwell",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "date": "2026-10-15T00:00:00.000Z"
+      "blurb": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16T00:00:00.000Z"
     }
   ]
 }
