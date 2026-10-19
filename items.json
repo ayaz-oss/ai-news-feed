@@ -1,37 +1,69 @@
 {
-  "generatedAt": "2026-10-18T11:34:42.203Z",
+  "generatedAt": "2026-10-19T13:49:14.385Z",
   "items": [
     {
-      "title": "Inline rendering with document​.currentScript",
-      "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://leanrada.com/notes/inline-rendering-currentscript/\">Inline rendering with document​.currentScript</a></strong></p> Lean Rada describes a neat trick that takes advantage of the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Document/currentScript\">document.currentScript</a> property. You can use that to drop in a tiny inline <code>&lt;script&gt;</code> element",
-      "date": "2026-10-17T21:11:12.000Z"
-    },
-    {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "link": "https://pele.run/",
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 454 # Comments: 40",
-      "date": "2026-10-17T15:55:09.000Z"
+      "blurb": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 342 # Comments: 174",
+      "date": "2026-10-19T10:45:14.000Z"
     },
     {
-      "title": "web-edit 0.1a2",
-      "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a2\">web-edit 0.1a2</a></p> <p>web-edit (<a href=\"https://simonwillison.net/2026/Oct/12/web-edit/\">previously</a>) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale.</p> <p>I added a \"copy to clipboard\" option for both text and",
-      "date": "2026-10-17T13:16:49.000Z"
-    },
-    {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "link": "https://llmspeed.dev/",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "link": "https://mistral.ai/news/timestral/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 300 # Comments: 82",
-      "date": "2026-10-17T04:36:53.000Z"
+      "blurb": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 179 # Comments: 31",
+      "date": "2026-10-19T09:59:32.000Z"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "date": "2026-10-19T09:08:05.000Z"
+    },
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1\">llm-tools-datasette 0.1.1</a></p> <p>When I switched LLM over to <a href=\"https://github.com/pydantic/httpx2\">httpx2</a> in <a href=\"https://llm.datasette.io/en/stable/changelog.html#v0-33\">LLM 0.33</a> I forget that this would break any plugins which used <code>httpx</code> without directly dep",
+      "date": "2026-10-18T23:43:09.000Z"
+    },
+    {
+      "title": "llm-echo 0.5",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5\">llm-echo 0.5</a></p> <p>I'm working towards a new <a href=\"https://llm.datasette.io/\">LLM</a> release, and testing PRs caused me to revisit the <code>llm-echo</code> debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. T",
+      "date": "2026-10-18T23:16:16.000Z"
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 222 # Comments: 157",
+      "date": "2026-10-18T21:09:12.000Z"
+    },
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "link": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 451 # Comments: 221",
+      "date": "2026-10-18T20:48:14.000Z"
+    },
+    {
+      "title": "I built a programming language that LLMs can't use",
+      "link": "https://blog.picheta.me/post/killswitch-lang/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://blog.picheta.me/post/killswitch-lang/ Comments URL: https://news.ycombinator.com/item?id=50135762 Points: 236 # Comments: 175",
+      "date": "2026-10-17T22:26:47.000Z"
     }
   ]
 }
