@@ -1,69 +1,85 @@
 {
-  "generatedAt": "2026-10-19T13:49:14.385Z",
+  "generatedAt": "2026-10-20T11:57:58.745Z",
   "items": [
     {
-      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-      "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 342 # Comments: 174",
-      "date": "2026-10-19T10:45:14.000Z"
-    },
-    {
-      "title": "Timestral: Mistral release time-series foundation models",
-      "link": "https://mistral.ai/news/timestral/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 179 # Comments: 31",
-      "date": "2026-10-19T09:59:32.000Z"
-    },
-    {
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
-      "date": "2026-10-19T09:08:05.000Z"
+      "blurb": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "date": "2026-10-20T09:00:00.000Z"
     },
     {
-      "title": "llm-tools-datasette 0.1.1",
-      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "title": "My obituary for programming",
+      "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1\">llm-tools-datasette 0.1.1</a></p> <p>When I switched LLM over to <a href=\"https://github.com/pydantic/httpx2\">httpx2</a> in <a href=\"https://llm.datasette.io/en/stable/changelog.html#v0-33\">LLM 0.33</a> I forget that this would break any plugins which used <code>httpx</code> without directly dep",
-      "date": "2026-10-18T23:43:09.000Z"
+      "blurb": "<p><strong><a href=\"https://dumbmatter.com/2026/10/programming-obituary/\">My obituary for programming</a></strong></p> Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the <em>puzzle</em> of developing code:</p> <blockquote> <p>Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puz",
+      "date": "2026-10-19T23:58:25.000Z"
     },
     {
-      "title": "llm-echo 0.5",
-      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5\">llm-echo 0.5</a></p> <p>I'm working towards a new <a href=\"https://llm.datasette.io/\">LLM</a> release, and testing PRs caused me to revisit the <code>llm-echo</code> debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. T",
-      "date": "2026-10-18T23:16:16.000Z"
-    },
-    {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 222 # Comments: 157",
-      "date": "2026-10-18T21:09:12.000Z"
+      "blurb": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 494 # Comments: 145",
+      "date": "2026-10-19T23:22:18.000Z"
     },
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "link": "https://arxiv.org/abs/2610.18861",
+      "title": "How abliterated models can get you pwned",
+      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 451 # Comments: 221",
-      "date": "2026-10-18T20:48:14.000Z"
+      "blurb": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 151 # Comments: 86",
+      "date": "2026-10-19T23:08:52.000Z"
     },
     {
-      "title": "I built a programming language that LLMs can't use",
-      "link": "https://blog.picheta.me/post/killswitch-lang/",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "date": "2026-10-19T18:22:47.000Z"
+    },
+    {
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…",
+      "date": "2026-10-19T17:45:55.000Z"
+    },
+    {
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.picheta.me/post/killswitch-lang/ Comments URL: https://news.ycombinator.com/item?id=50135762 Points: 236 # Comments: 175",
-      "date": "2026-10-17T22:26:47.000Z"
+      "blurb": "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 315 # Comments: 243",
+      "date": "2026-10-19T15:31:34.000Z"
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "date": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "link": "https://news.ycombinator.com/item?id=50151036",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's ",
+      "date": "2026-10-19T11:24:34.000Z"
+    },
+    {
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "link": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Related: https://github.com/LostCityRS/Server Comments URL: https://news.ycombinator.com/item?id=50136126 Points: 204 # Comments: 70",
+      "date": "2026-10-17T23:24:05.000Z"
     }
   ]
 }
