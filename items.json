@@ -1,69 +1,101 @@
 {
-  "generatedAt": "2026-10-21T12:12:37.336Z",
+  "generatedAt": "2026-10-22T12:15:45.989Z",
   "items": [
     {
-      "title": "eMudhra Intermediate CA Compromise",
-      "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-      "source": "Simon Willison",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "source": "Ars Technica",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://emudhra.we-have-a-problem.com\">eMudhra Intermediate CA Compromise</a></strong></p> This is very, very bad news:</p> <blockquote> <p>The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores.</p> </blockquote> <p>Any softwa",
-      "date": "2026-10-20T23:50:25.000Z"
+      "blurb": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "date": "2026-10-22T11:30:33.000Z"
     },
     {
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called <a href=\"https://github.com/simonw/battledrones#readme\">Battle Drones</a> (<a href=\"https://simonw.github.io/battledrones/\">play it here</a>). Unlike <a href=\"https://simonwillison.net/2026/Aug/5/raccoon-heist/\">my previous experiments</a>, this one is <em>actually fun to play</em>. I'm so",
-      "date": "2026-10-20T19:34:19.000Z"
-    },
-    {
-      "title": "The new economics of enterprise AI",
-      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "title": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?”…",
-      "date": "2026-10-20T15:20:25.000Z"
+      "blurb": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "date": "2026-10-22T10:00:00.000Z"
     },
     {
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
-      "date": "2026-10-20T12:00:00.000Z"
+      "blurb": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+      "date": "2026-10-22T08:41:18.000Z"
     },
     {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "date": "2026-10-20T10:00:00.000Z"
-    },
-    {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "title": "OpenAI CLI",
+      "link": "https://github.com/openai/openai-cli",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 2263 # Comments: 866",
-      "date": "2026-10-20T09:08:54.000Z"
+      "blurb": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 151 # Comments: 80",
+      "date": "2026-10-22T05:23:11.000Z"
     },
     {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "link": "https://openai.com/index/terminal-x",
-      "source": "OpenAI News",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "date": "2026-10-20T07:00:00.000Z"
+      "blurb": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 289 # Comments: 92",
+      "date": "2026-10-22T02:18:41.000Z"
     },
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "date": "2026-10-20T00:00:00.000Z"
+      "blurb": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "date": "2026-10-21T21:00:00.000Z"
+    },
+    {
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 431 # Comments: 393",
+      "date": "2026-10-21T19:14:01.000Z"
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security</a></strong></p> If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been e",
+      "date": "2026-10-21T18:41:53.000Z"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "date": "2026-10-21T17:00:00.000Z"
+    },
+    {
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p> Well this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Battle Drones</a> yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated ",
+      "date": "2026-10-21T16:25:16.000Z"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 541 # Comments: 175",
+      "date": "2026-10-21T14:00:26.000Z"
+    },
+    {
+      "title": "How AI Is Breaking the Way We Reward High-Achieving Students",
+      "link": "https://edsurge.com/news/how-ai-is-breaking-the-way-we-reward-high-achieving-students",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "When AI can create polished products in seconds, we must redefine high achievement and reward students for genuine intellectual curiosity, not ...",
+      "date": "2026-10-21T00:00:00.000Z"
     }
   ]
 }
