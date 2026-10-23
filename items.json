@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-10-22T12:15:45.989Z",
+  "generatedAt": "2026-10-23T11:57:04.723Z",
   "items": [
     {
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "source": "Ars Technica",
-      "tag": "dev",
-      "blurb": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-      "date": "2026-10-22T11:30:33.000Z"
-    },
-    {
-      "title": "Making the case for context-aware AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
-      "date": "2026-10-22T10:00:00.000Z"
-    },
-    {
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
-      "date": "2026-10-22T08:41:18.000Z"
-    },
-    {
-      "title": "OpenAI CLI",
-      "link": "https://github.com/openai/openai-cli",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 151 # Comments: 80",
-      "date": "2026-10-22T05:23:11.000Z"
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 289 # Comments: 92",
-      "date": "2026-10-22T02:18:41.000Z"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "date": "2026-10-21T21:00:00.000Z"
+      "blurb": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "date": "2026-10-23T00:00:00.000Z"
     },
     {
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 431 # Comments: 393",
-      "date": "2026-10-21T19:14:01.000Z"
+      "blurb": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 360 # Comments: 219",
+      "date": "2026-10-22T22:54:43.000Z"
     },
     {
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+      "date": "2026-10-22T21:17:29.000Z"
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?Is selling tokens really the best strategy?Especially with commodification and prices declining wouldn't that i",
+      "date": "2026-10-22T21:03:55.000Z"
+    },
+    {
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security</a></strong></p> If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been e",
-      "date": "2026-10-21T18:41:53.000Z"
+      "blurb": "<p><strong><a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow\">DE STAAT - FREEDOM (Official Music Video)</a></strong></p> OK well this is a first for me... at <a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=44s\">00:44</a> in this new music video by Dutch alternative rock band <a href=\"https://en.wikipedia.org/wiki/De_Staat\">De Staat</a>:</p> <p><video src=\"https://static.simonwillison",
+      "date": "2026-10-22T19:42:26.000Z"
     },
     {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://openai.com/index/att-legal",
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "date": "2026-10-21T17:00:00.000Z"
+      "blurb": "Fast, focused, low-cost decisions for any application.",
+      "date": "2026-10-22T19:00:00.000Z"
     },
     {
-      "title": "Panache — RTS Belle Époque pour mobile",
-      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "title": "The Foundations of Scalable AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
+      "date": "2026-10-22T18:48:04.000Z"
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p> Well this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Battle Drones</a> yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated ",
-      "date": "2026-10-21T16:25:16.000Z"
+      "blurb": "<p><strong><a href=\"https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation\">Donating Agent Skills to the Agentic AI Foundation</a></strong></p> News today from Anthropic:</p> <blockquote> <p>We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation",
+      "date": "2026-10-22T18:09:56.000Z"
     },
     {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 541 # Comments: 175",
-      "date": "2026-10-21T14:00:26.000Z"
+      "blurb": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 415 # Comments: 197",
+      "date": "2026-10-22T17:44:06.000Z"
     },
     {
-      "title": "How AI Is Breaking the Way We Reward High-Achieving Students",
-      "link": "https://edsurge.com/news/how-ai-is-breaking-the-way-we-reward-high-achieving-students",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "When AI can create polished products in seconds, we must redefine high achievement and reward students for genuine intellectual curiosity, not ...",
-      "date": "2026-10-21T00:00:00.000Z"
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 467 # Comments: 465",
+      "date": "2026-10-22T16:08:00.000Z"
+    },
+    {
+      "title": "Quoting Armin Ronacher",
+      "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://twitter.com/mitsuhiko/status/2113207589978636646\"><p>As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://twitter.com/mitsuhiko/status/2113207589978636646\">Armin Ronacher</a></p> <p>Tags: <a href=\"https://simonwillison.net/tags/security\">security<",
+      "date": "2026-10-22T15:34:13.000Z"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "What forward deployed engineering means at OpenAI",
+      "date": "2026-10-22T06:00:00.000Z"
     }
   ]
 }
