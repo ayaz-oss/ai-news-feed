@@ -1,101 +1,77 @@
 {
-  "generatedAt": "2026-10-23T11:57:04.723Z",
+  "generatedAt": "2026-10-24T11:26:46.995Z",
   "items": [
     {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "date": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "link": "https://www.anthropic.com/research/formal-verification",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 360 # Comments: 219",
-      "date": "2026-10-22T22:54:43.000Z"
+      "blurb": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 192 # Comments: 49",
+      "date": "2026-10-24T05:49:57.000Z"
     },
     {
-      "title": "Designing an AI serving harness built to last",
-      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
-      "date": "2026-10-22T21:17:29.000Z"
-    },
-    {
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "link": "https://news.ycombinator.com/item?id=50200997",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?Is selling tokens really the best strategy?Especially with commodification and prices declining wouldn't that i",
-      "date": "2026-10-22T21:03:55.000Z"
-    },
-    {
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "title": "Quick Study",
+      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow\">DE STAAT - FREEDOM (Official Music Video)</a></strong></p> OK well this is a first for me... at <a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=44s\">00:44</a> in this new music video by Dutch alternative rock band <a href=\"https://en.wikipedia.org/wiki/De_Staat\">De Staat</a>:</p> <p><video src=\"https://static.simonwillison",
-      "date": "2026-10-22T19:42:26.000Z"
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/quick-study-painter\">Quick Study</a></p> <p>Prompt <a href=\"https://claude.ai/share/71adda96-193f-4f2a-97c0-454e08066afb\">to Claude Opus 5.5 High</a>:</p> <blockquote> <p><code>Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush</c",
+      "date": "2026-10-23T21:35:13.000Z"
     },
     {
-      "title": "Build more responsive apps with the Decisions API",
-      "link": "https://openai.com/index/decisions-api",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Fast, focused, low-cost decisions for any application.",
-      "date": "2026-10-22T19:00:00.000Z"
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
-      "date": "2026-10-22T18:48:04.000Z"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "title": "Introducing Kimi K3.1 Pro",
+      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation\">Donating Agent Skills to the Agentic AI Foundation</a></strong></p> News today from Anthropic:</p> <blockquote> <p>We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation",
-      "date": "2026-10-22T18:09:56.000Z"
+      "blurb": "<p><strong><a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Introducing Kimi K3.1 Pro</a></strong></p> Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\".</p> <p>They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the sam",
+      "date": "2026-10-23T19:40:54.000Z"
     },
     {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "link": "https://github.com/NVIDIA/OpenShell",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "link": "https://block.xyz/dessa",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 415 # Comments: 197",
-      "date": "2026-10-22T17:44:06.000Z"
+      "blurb": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 398 # Comments: 146",
+      "date": "2026-10-23T19:09:54.000Z"
     },
     {
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 467 # Comments: 465",
-      "date": "2026-10-22T16:08:00.000Z"
-    },
-    {
-      "title": "Quoting Armin Ronacher",
-      "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://twitter.com/mitsuhiko/status/2113207589978636646\"><p>As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://twitter.com/mitsuhiko/status/2113207589978636646\">Armin Ronacher</a></p> <p>Tags: <a href=\"https://simonwillison.net/tags/security\">security<",
-      "date": "2026-10-22T15:34:13.000Z"
-    },
-    {
-      "title": "What FDE means at OpenAI",
-      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "What forward deployed engineering means at OpenAI",
-      "date": "2026-10-22T06:00:00.000Z"
+      "blurb": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "date": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "date": "2026-10-23T10:00:00.000Z"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "date": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "date": "2026-10-21T13:00:00.000Z"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "date": "2026-10-21T12:00:00.000Z"
     }
   ]
 }
