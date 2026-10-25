@@ -1,77 +1,29 @@
 {
-  "generatedAt": "2026-10-24T11:26:46.995Z",
+  "generatedAt": "2026-10-25T11:55:01.109Z",
   "items": [
     {
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 192 # Comments: 49",
-      "date": "2026-10-24T05:49:57.000Z"
+      "blurb": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 203 # Comments: 65",
+      "date": "2026-10-25T01:33:49.000Z"
     },
     {
-      "title": "Quick Study",
-      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/quick-study-painter\">Quick Study</a></p> <p>Prompt <a href=\"https://claude.ai/share/71adda96-193f-4f2a-97c0-454e08066afb\">to Claude Opus 5.5 High</a>:</p> <blockquote> <p><code>Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush</c",
-      "date": "2026-10-23T21:35:13.000Z"
-    },
-    {
-      "title": "Introducing Kimi K3.1 Pro",
-      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Introducing Kimi K3.1 Pro</a></strong></p> Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\".</p> <p>They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the sam",
-      "date": "2026-10-23T19:40:54.000Z"
-    },
-    {
-      "title": "Dessa: Conversation Model trained only on speech",
-      "link": "https://block.xyz/dessa",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 398 # Comments: 146",
-      "date": "2026-10-23T19:09:54.000Z"
+      "blurb": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 383 # Comments: 392",
+      "date": "2026-10-24T23:11:54.000Z"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI News",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "date": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "date": "2026-10-23T10:00:00.000Z"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "date": "2026-10-22T00:00:00.000Z"
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "date": "2026-10-21T13:00:00.000Z"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "date": "2026-10-21T12:00:00.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/battledrones/releases/tag/v14\">battledrones v14: Compass Rose, a four player map</a></p> <p>I added four player online mode to <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">Battledrones</a> - previous maps were limited to two.</p> <p>Here's the initial prompt I used: </p> <blockquote> <p><code>Add a new map for a four ",
+      "date": "2026-10-24T03:59:57.000Z"
     }
   ]
 }
