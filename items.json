@@ -1,29 +1,53 @@
 {
-  "generatedAt": "2026-10-25T11:55:01.109Z",
+  "generatedAt": "2026-10-26T13:27:22.371Z",
   "items": [
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 203 # Comments: 65",
-      "date": "2026-10-25T01:33:49.000Z"
+      "blurb": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…",
+      "date": "2026-10-26T09:01:00.000Z"
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 383 # Comments: 392",
-      "date": "2026-10-24T23:11:54.000Z"
+      "blurb": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 337 # Comments: 241",
+      "date": "2026-10-26T01:47:46.000Z"
     },
     {
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "title": "Pause AI in Schools. But Not Before You Do This First.",
+      "link": "https://edsurge.com/news/pause-ai-in-schools-but-not-before-you-do-this-first",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "Ban or no ban, students are going to use AI. Let’s make sure they have the skills to navigate it, says Common Sense Media’s chief program officer.",
+      "date": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 606 # Comments: 255",
+      "date": "2026-10-25T17:15:38.000Z"
+    },
+    {
+      "title": "Seam Cutter",
+      "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/battledrones/releases/tag/v14\">battledrones v14: Compass Rose, a four player map</a></p> <p>I added four player online mode to <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">Battledrones</a> - previous maps were limited to two.</p> <p>Here's the initial prompt I used: </p> <blockquote> <p><code>Add a new map for a four ",
-      "date": "2026-10-24T03:59:57.000Z"
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/seam-cutter\">Seam Cutter</a></p> <p>I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.</p> <p>I wanted this because I often use <a href=\"https://ap",
+      "date": "2026-10-25T15:10:19.000Z"
+    },
+    {
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline Comments URL: https://news.ycombinator.com/item?id=50215997 Points: 180 # Comments: 66",
+      "date": "2026-10-23T22:04:55.000Z"
     }
   ]
 }
