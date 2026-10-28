@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-10-27T12:34:52.615Z",
+  "generatedAt": "2026-10-28T13:23:18.113Z",
   "items": [
     {
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "title": "Pairing industrial AI autonomy and human control",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
-      "date": "2026-10-27T11:19:18.000Z"
+      "blurb": "",
+      "date": "2026-10-28T12:00:00.000Z"
     },
     {
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-      "source": "Hacker News",
+      "title": "Quoting Terk Terkowitz",
+      "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 157 # Comments: 110",
-      "date": "2026-10-27T10:27:50.000Z"
+      "blurb": "<blockquote cite=\"https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai\"><p>If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgem",
+      "date": "2026-10-28T10:09:07.000Z"
     },
     {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "source": "Hacker News",
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 231 # Comments: 158",
-      "date": "2026-10-27T06:25:37.000Z"
+      "blurb": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "date": "2026-10-28T09:30:00.000Z"
     },
     {
-      "title": "AI, Elections and the Making of an Informed Electorate",
-      "link": "https://edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate",
+      "title": "Does an AI Pause Protect Students, or Leave Some Behind?",
+      "link": "https://edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind",
       "source": "EdSurge",
       "tag": "education",
-      "blurb": "As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...",
-      "date": "2026-10-27T00:00:00.000Z"
+      "blurb": "Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.",
+      "date": "2026-10-28T00:00:00.000Z"
     },
     {
-      "title": "GPT-6.1 Terra",
-      "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-1-terra/\">GPT-6.1 Terra</a></strong></p> It's always interesting to note which aspects of a new model are emphasized in the release announcement.</p> <p>In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use:</p> <blockquote> <p>We’re introducing <strong>GPT-6.1 Terra</strong>, a fast, efficient model that com",
-      "date": "2026-10-26T23:53:07.000Z"
+      "title": "What Playgrounds Can Teach Us About AI in Schools",
+      "link": "https://edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.",
+      "date": "2026-10-28T00:00:00.000Z"
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "date": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "title": "Quoting Jason Koebler",
-      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/\"><p>Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech sup",
-      "date": "2026-10-26T19:00:25.000Z"
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
-      "date": "2026-10-26T17:45:43.000Z"
-    },
-    {
-      "title": "webframe: evaluated as a scraper and a sandbox",
-      "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/webframe-evaluation#readme\">webframe: evaluated as a scraper and a sandbox</a></p> <p><a href=\"https://github.com/tractordev/webframe\">webframe</a> is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web vi",
-      "date": "2026-10-26T16:15:00.000Z"
-    },
-    {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Early progress on accelerating drug development with Claude",
+      "link": "https://www.anthropic.com/research/early-progress-drug-development",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 741 # Comments: 102",
-      "date": "2026-10-26T15:11:59.000Z"
+      "blurb": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 258 # Comments: 252",
+      "date": "2026-10-27T20:50:42.000Z"
     },
     {
-      "title": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI News",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "date": "2026-10-26T14:30:00.000Z"
+      "blurb": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 186 # Comments: 108",
+      "date": "2026-10-27T20:48:49.000Z"
     },
     {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "link": "https://tailscale.com/ssh-investigation-update",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 317 # Comments: 169",
+      "date": "2026-10-27T19:55:21.000Z"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 403 # Comments: 153",
+      "date": "2026-10-27T19:55:06.000Z"
+    },
+    {
+      "title": "Game Boy Color on My Conference Badge",
+      "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://spf13.com/p/game-boy-color-on-my-conference-badge/\">Game Boy Color on My Conference Badge</a></strong></p> I'm at GitHub Universe this week and, <a href=\"https://simonwillison.net/2025/Oct/28/github-universe-badge/\">similar to last year</a>, the conference badge is a full-blown color screen computer.</p> <p>I've been hacking around with it again, and then I ran into wit",
+      "date": "2026-10-27T19:34:18.000Z"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "date": "2026-10-26T13:45:00.000Z"
+      "blurb": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "date": "2026-10-27T15:00:00.000Z"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "date": "2026-10-27T07:00:00.000Z"
     }
   ]
 }
