@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-10-29T13:32:10.483Z",
+  "generatedAt": "2026-10-30T13:22:57.660Z",
   "items": [
     {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "date": "2026-10-29T10:11:12.000Z"
-    },
-    {
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "title": "Backdoors in official Claude Code extensions",
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 468 # Comments: 186",
-      "date": "2026-10-29T03:33:42.000Z"
+      "blurb": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 387 # Comments: 110",
+      "date": "2026-10-30T11:05:53.000Z"
     },
     {
-      "title": "Quoting Ted Sanders",
-      "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://news.ycombinator.com/item?id=50248124#50249160\"><p>In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are big",
-      "date": "2026-10-28T23:23:21.000Z"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
-      "date": "2026-10-28T20:32:02.000Z"
-    },
-    {
-      "title": "Gemini 4 Carbon",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 963 # Comments: 771",
-      "date": "2026-10-28T17:01:23.000Z"
+      "blurb": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 254 # Comments: 46",
+      "date": "2026-10-30T10:22:51.000Z"
     },
     {
-      "title": "GitHub Octoverse 2026",
-      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">GitHub Octoverse 2026</a></strong></p> I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular:</p> <p><img",
-      "date": "2026-10-28T16:45:23.000Z"
+      "blurb": "<p><strong><a href=\"https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\">API credits benefit for eligible ChatGPT subscriptions</a></strong></p> Earlier this month Anthropic <a href=\"https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/#api-credits\">announced a generous new benefit</a> for their Max and Team subscriptions: $100, $200, and $500 per m",
+      "date": "2026-10-29T22:48:29.000Z"
     },
     {
-      "title": "The October inflection point for vibe game development",
-      "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p>I've written before about how November 2025 was <a href=\"https://simonwillison.net/tags/november-2025-inflection/\">an inflection point for coding agents</a> - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's ",
-      "date": "2026-10-28T13:55:15.000Z"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "date": "2026-10-28T13:15:00.000Z"
-    },
-    {
-      "title": "The future of the firm",
-      "link": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "How AI might enter the org chart—beneath, beside, and between us.",
-      "date": "2026-10-28T10:00:00.000Z"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "date": "2026-10-28T09:30:00.000Z"
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "link": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "date": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/ Comments URL: https://news.ycombinator.com/item?id=50251200 Points: 254 # Comments: 181",
-      "date": "2026-10-26T21:24:18.000Z"
+      "blurb": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 325 # Comments: 129",
+      "date": "2026-10-29T21:40:28.000Z"
+    },
+    {
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "link": "https://github.com/SheepSeb/tinyworldformer",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 239 # Comments: 16",
+      "date": "2026-10-29T20:32:28.000Z"
+    },
+    {
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://twitter.com/jsnnsa/status/2115623382721126826\">How I Built the Most AI-Pilled Company in the World</a></strong></p> Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building <a href=\"https://spawn.co\">Spawn</a> is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier mo",
+      "date": "2026-10-29T17:00:26.000Z"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "date": "2026-10-29T17:00:00.000Z"
+    },
+    {
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 517 # Comments: 275",
+      "date": "2026-10-29T14:57:55.000Z"
+    },
+    {
+      "title": "Quoting Ben Hylak",
+      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://twitter.com/benhylak/status/2115172657910120740\"><p>every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath.</p> <p>except for our product, of course. </p> <p>in our product, customers love the ui and love us very much.</p> <p>we're special that way.</p></blockquote> <p class=\"cite\">&mdash; <a href",
+      "date": "2026-10-29T14:06:27.000Z"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "date": "2026-10-29T09:00:00.000Z"
+    },
+    {
+      "title": "What Playgrounds Can Teach Us About AI in Schools",
+      "link": "https://www.edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.",
+      "date": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "title": "Does an AI Pause Protect Students, or Leave Some Behind?",
+      "link": "https://www.edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.",
+      "date": "2026-10-28T00:00:00.000Z"
     }
   ]
 }
