@@ -1,101 +1,85 @@
 {
-  "generatedAt": "2026-10-30T13:22:57.660Z",
+  "generatedAt": "2026-10-31T12:57:19.696Z",
   "items": [
     {
-      "title": "Backdoors in official Claude Code extensions",
-      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 387 # Comments: 110",
-      "date": "2026-10-30T11:05:53.000Z"
+      "blurb": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 297 # Comments: 178",
+      "date": "2026-10-31T10:21:30.000Z"
     },
     {
-      "title": "Anthropic hacked to deliver remote access trojan",
-      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 254 # Comments: 46",
-      "date": "2026-10-30T10:22:51.000Z"
-    },
-    {
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "title": "dbreunig/nesformer",
+      "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\">API credits benefit for eligible ChatGPT subscriptions</a></strong></p> Earlier this month Anthropic <a href=\"https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/#api-credits\">announced a generous new benefit</a> for their Max and Team subscriptions: $100, $200, and $500 per m",
-      "date": "2026-10-29T22:48:29.000Z"
+      "blurb": "<p><strong><a href=\"https://github.com/dbreunig/nesformer\">dbreunig/nesformer</a></strong></p> Inspired by <a href=\"https://divagr.com/blog/qwenputer\">qwenputer</a> by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen!</p> <p>In <a ",
+      "date": "2026-10-30T21:59:22.000Z"
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "tag": "dev",
+      "blurb": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "date": "2026-10-30T21:09:54.000Z"
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 325 # Comments: 129",
-      "date": "2026-10-29T21:40:28.000Z"
+      "blurb": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 212 # Comments: 263",
+      "date": "2026-10-30T14:08:20.000Z"
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "link": "https://github.com/SheepSeb/tinyworldformer",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 239 # Comments: 16",
-      "date": "2026-10-29T20:32:28.000Z"
-    },
-    {
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://twitter.com/jsnnsa/status/2115623382721126826\">How I Built the Most AI-Pilled Company in the World</a></strong></p> Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building <a href=\"https://spawn.co\">Spawn</a> is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier mo",
-      "date": "2026-10-29T17:00:26.000Z"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "date": "2026-10-29T17:00:00.000Z"
+      "blurb": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "date": "2026-10-30T09:30:00.000Z"
     },
     {
-      "title": "LLM Voice",
-      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 517 # Comments: 275",
-      "date": "2026-10-29T14:57:55.000Z"
-    },
-    {
-      "title": "Quoting Ben Hylak",
-      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://twitter.com/benhylak/status/2115172657910120740\"><p>every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath.</p> <p>except for our product, of course. </p> <p>in our product, customers love the ui and love us very much.</p> <p>we're special that way.</p></blockquote> <p class=\"cite\">&mdash; <a href",
-      "date": "2026-10-29T14:06:27.000Z"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "date": "2026-10-29T09:00:00.000Z"
+      "blurb": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "date": "2026-10-30T09:00:00.000Z"
     },
     {
-      "title": "What Playgrounds Can Teach Us About AI in Schools",
-      "link": "https://www.edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.",
-      "date": "2026-10-28T00:00:00.000Z"
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 917 # Comments: 536",
+      "date": "2026-10-30T07:09:12.000Z"
     },
     {
-      "title": "Does an AI Pause Protect Students, or Leave Some Behind?",
-      "link": "https://www.edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.",
-      "date": "2026-10-28T00:00:00.000Z"
+      "title": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "date": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "date": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "link": "https://openai.com/index/credit-saison",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "date": "2026-10-29T00:00:00.000Z"
     }
   ]
 }
