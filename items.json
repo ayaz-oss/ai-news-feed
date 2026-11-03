@@ -1,69 +1,101 @@
 {
-  "generatedAt": "2026-11-02T16:27:52.258Z",
+  "generatedAt": "2026-11-03T14:33:38.460Z",
   "items": [
     {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+      "date": "2026-11-03T10:43:41.000Z"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "date": "2026-11-02T15:00:00.000Z"
+      "blurb": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "date": "2026-11-03T08:00:00.000Z"
     },
     {
-      "title": "The U.S. Census Bureau and “Super Intelligence”",
-      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p>I was reminded today of <a href=\"https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/\">AI Adoption Rate Trending Down for Large Companies</a>, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart <a href=\"http",
-      "date": "2026-11-02T13:31:26.000Z"
+      "blurb": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p> Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the",
+      "date": "2026-11-03T05:32:25.000Z"
     },
     {
-      "title": "Stop counting tokens, start counting what ships",
-      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "title": "October sponsors-only newsletter",
+      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-10-october.md\">access it here</a>. This month:</p> <ul> <li>The October inflection point for vibe game development</li> <li>The vulnerability apocalypse",
+      "date": "2026-11-03T05:28:59.000Z"
+    },
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-      "date": "2026-11-02T13:10:32.000Z"
+      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+      "date": "2026-11-03T04:18:47.000Z"
     },
     {
-      "title": "The agentic web is here",
-      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
-      "date": "2026-11-02T09:35:19.000Z"
-    },
-    {
-      "title": "Want Students to Think With AI? Raise the Stakes.",
-      "link": "https://www.edsurge.com/news/want-students-to-think-with-ai-raise-the-stakes",
+      "title": "Survey: Most Parents Want Students to Use AI in School — With Strong Safeguards",
+      "link": "https://www.edsurge.com/news/survey-most-parents-want-students-to-use-ai-in-school-with-strong-safeguards",
       "source": "EdSurge",
       "tag": "education",
-      "blurb": "AI tutors won’t teach students to think until the conversation itself becomes the assessment.",
-      "date": "2026-11-02T00:00:00.000Z"
+      "blurb": "Parents want schools to teach AI — but 4 in 10 teachers say they’ve had no training at all.",
+      "date": "2026-11-03T00:00:00.000Z"
     },
     {
-      "title": "If in doubt, delete the uv.lock file",
-      "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "title": "llm 0.37",
+      "link": "https://simonwillison.net/2026/Nov/2/llm/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:</p> <p><strong>If in doubt, delete the uv.lock file</strong></p> <p>Most of my projects are libraries which don't include a <code>uv.lock</code> file, since it's rude for a library dependency to lock versions for anything else that uses it.</p> <p>Runnin",
-      "date": "2026-11-01T23:24:22.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p> <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.</p> <p>I added <code>gpt-6.1-sol</code> and <code>gpt-6.1-terra</code>, plus a new <a href=\"https://llm.datasette.io/en/stable/other-mod",
+      "date": "2026-11-02T23:49:30.000Z"
     },
     {
-      "title": "Quoting Kyle Kingsbury",
-      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "source": "Simon Willison",
+      "title": "4 Critical Security Considerations for AI in K–12 Schools",
+      "link": "https://edtechmagazine.com/k12/article/2026/11/4-critical-security-considerations-ai-k-12-schools",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "In K–12 districts, generative artificial intelligence is changing the way everyone works. Administrators use the tools to streamline workflows, teachers customize lessons for individual students’ needs, and students brainstorm ways to tackle an assignment. But as AI innovation and adoption grows, so do the risks. K–12 districts manage a lot of sensitive student data and staff. Without the right gu",
+      "date": "2026-11-02T18:20:04.000Z"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://jepsen.io/analyses/particledb-1.1.4#llm-tradeoffs\"><p>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...]</p> <p>In the age of LLMs",
-      "date": "2026-11-01T16:49:04.000Z"
+      "blurb": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "2026-11-02T18:00:00.000Z"
     },
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "link": "https://momentic.ai/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 442 # Comments: 330",
-      "date": "2026-11-01T06:06:19.000Z"
+      "blurb": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs.Here’s a demo: https://youtu.be/BFsM-Se1Fh8We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was a",
+      "date": "2026-11-02T17:05:25.000Z"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+      "date": "2026-11-02T17:00:00.000Z"
     }
   ]
 }
