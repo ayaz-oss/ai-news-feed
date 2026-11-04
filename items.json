@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-03T14:33:38.460Z",
+  "generatedAt": "2026-11-04T14:47:44.730Z",
   "items": [
     {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "title": "Securing the agentic enterprise with data lineage",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-      "date": "2026-11-03T10:43:41.000Z"
+      "blurb": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
+      "date": "2026-11-04T13:00:00.000Z"
     },
     {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "date": "2026-11-03T08:00:00.000Z"
-    },
-    {
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p> Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the",
-      "date": "2026-11-03T05:32:25.000Z"
-    },
-    {
-      "title": "October sponsors-only newsletter",
-      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-10-october.md\">access it here</a>. This month:</p> <ul> <li>The October inflection point for vibe game development</li> <li>The vulnerability apocalypse",
-      "date": "2026-11-03T05:28:59.000Z"
-    },
-    {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
-      "date": "2026-11-03T04:18:47.000Z"
-    },
-    {
-      "title": "Survey: Most Parents Want Students to Use AI in School — With Strong Safeguards",
-      "link": "https://www.edsurge.com/news/survey-most-parents-want-students-to-use-ai-in-school-with-strong-safeguards",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "Parents want schools to teach AI — but 4 in 10 teachers say they’ve had no training at all.",
-      "date": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "title": "llm 0.37",
-      "link": "https://simonwillison.net/2026/Nov/2/llm/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p> <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.</p> <p>I added <code>gpt-6.1-sol</code> and <code>gpt-6.1-terra</code>, plus a new <a href=\"https://llm.datasette.io/en/stable/other-mod",
-      "date": "2026-11-02T23:49:30.000Z"
-    },
-    {
-      "title": "4 Critical Security Considerations for AI in K–12 Schools",
-      "link": "https://edtechmagazine.com/k12/article/2026/11/4-critical-security-considerations-ai-k-12-schools",
-      "source": "EdTech K-12",
-      "tag": "education",
-      "blurb": "In K–12 districts, generative artificial intelligence is changing the way everyone works. Administrators use the tools to streamline workflows, teachers customize lessons for individual students’ needs, and students brainstorm ways to tackle an assignment. But as AI innovation and adoption grows, so do the risks. K–12 districts manage a lot of sensitive student data and staff. Without the right gu",
-      "date": "2026-11-02T18:20:04.000Z"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "date": "2026-11-02T18:00:00.000Z"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "date": "2026-11-02T18:00:00.000Z"
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "link": "https://momentic.ai/",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs.Here’s a demo: https://youtu.be/BFsM-Se1Fh8We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was a",
-      "date": "2026-11-02T17:05:25.000Z"
+      "blurb": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 330 # Comments: 220",
+      "date": "2026-11-04T11:52:17.000Z"
     },
     {
-      "title": "Raising the quality of insights in agentic analytics",
-      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Tech Review",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
-      "date": "2026-11-02T17:00:00.000Z"
+      "blurb": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 200 # Comments: 153",
+      "date": "2026-11-04T10:23:34.000Z"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "link": "https://news.ycombinator.com/item?id=50363461",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential inform",
+      "date": "2026-11-04T10:10:27.000Z"
+    },
+    {
+      "title": "Finding Our Way Forward: The Struggle and Promise of AI Literacy",
+      "link": "https://www.edsurge.com/news/finding-our-way-forward-the-struggle-and-promise-of-ai-literacy",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "Preparing students for an AI-driven future requires prioritizing the human qualities and values we cannot afford to lose along the way.",
+      "date": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "Do Classroom Games Teach or Just Entertain?",
+      "link": "https://www.edsurge.com/news/do-classroom-games-teach-or-just-entertain",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "",
+      "date": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "How I use AI (Oct 2026)",
+      "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 218 # Comments: 253",
+      "date": "2026-11-03T18:11:11.000Z"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 679 # Comments: 196",
+      "date": "2026-11-03T17:40:00.000Z"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1402 # Comments: 462",
+      "date": "2026-11-03T17:22:37.000Z"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p>Yesterday's hot paper was <a href=\"https://rikiyat.github.io/blog/weight-space-programming/\">Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</a> by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both i",
+      "date": "2026-11-03T16:29:48.000Z"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "date": "2026-11-03T12:00:00.000Z"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "date": "2026-11-03T08:00:00.000Z"
     }
   ]
 }
