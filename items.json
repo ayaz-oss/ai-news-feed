@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-04T14:47:44.730Z",
+  "generatedAt": "2026-11-05T14:52:18.417Z",
   "items": [
     {
-      "title": "Securing the agentic enterprise with data lineage",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "date": "2026-11-05T02:00:00.000Z"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "link": "https://www.ricursive.com/ripple",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 315 # Comments: 113",
+      "date": "2026-11-04T18:53:29.000Z"
+    },
+    {
+      "title": "Writing and Updating K–12 AI Use Policies That Meet the Moment",
+      "link": "https://edtechmagazine.com/k12/article/2026/11/writing-and-updating-k-12-ai-use-policies-meet-moment-perfcon",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "As many K–12 schools shift their artificial intelligence use from simple chatbots to more sophisticated agentic tools, AI policy for schools is not keeping pace. While 8 in 10 K–12 districts have adopted an AI policy, it remains difficult to keep up to date with the technology’s continuing innovation. “The models now change on a cadence of weeks, not months or years, and district policy changes mu",
+      "date": "2026-11-04T18:52:12.000Z"
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-      "date": "2026-11-04T13:00:00.000Z"
+      "blurb": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
+      "date": "2026-11-04T18:50:55.000Z"
     },
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 330 # Comments: 220",
-      "date": "2026-11-04T11:52:17.000Z"
+      "blurb": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 590 # Comments: 167",
+      "date": "2026-11-04T15:30:30.000Z"
     },
     {
-      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 200 # Comments: 153",
-      "date": "2026-11-04T10:23:34.000Z"
-    },
-    {
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "link": "https://news.ycombinator.com/item?id=50363461",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential inform",
-      "date": "2026-11-04T10:10:27.000Z"
-    },
-    {
-      "title": "Finding Our Way Forward: The Struggle and Promise of AI Literacy",
-      "link": "https://www.edsurge.com/news/finding-our-way-forward-the-struggle-and-promise-of-ai-literacy",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "Preparing students for an AI-driven future requires prioritizing the human qualities and values we cannot afford to lose along the way.",
-      "date": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "title": "Do Classroom Games Teach or Just Entertain?",
-      "link": "https://www.edsurge.com/news/do-classroom-games-teach-or-just-entertain",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "",
-      "date": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "title": "How I use AI (Oct 2026)",
-      "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 218 # Comments: 253",
-      "date": "2026-11-03T18:11:11.000Z"
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 679 # Comments: 196",
-      "date": "2026-11-03T17:40:00.000Z"
-    },
-    {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1402 # Comments: 462",
-      "date": "2026-11-03T17:22:37.000Z"
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "title": "datasette-llm 0.1a10",
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p>Yesterday's hot paper was <a href=\"https://rikiyat.github.io/blog/weight-space-programming/\">Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</a> by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both i",
-      "date": "2026-11-03T16:29:48.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a10\">datasette-llm 0.1a10</a></p> <p>Fixes a <a href=\"https://github.com/datasette/datasette-llm/pull/11\">bug</a> that affected my <a href=\"https://agent.datasette.io/\">agent.datasette.io</a> demo site, where the set of available LLM models was not correctly restricted to just those in the configuratio",
+      "date": "2026-11-04T15:26:02.000Z"
     },
     {
-      "title": "Accelerating engineering for the physical world",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI News",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "link": "https://news.ycombinator.com/item?id=50366117",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "date": "2026-11-03T12:00:00.000Z"
+      "blurb": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc)- Which tiers?- Have you purchased multiple subscriptions from the same provide",
+      "date": "2026-11-04T14:37:22.000Z"
     },
     {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "link": "https://openai.com/index/cisco-cyber",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "date": "2026-11-03T08:00:00.000Z"
+      "blurb": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "date": "2026-11-04T14:30:00.000Z"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "date": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "date": "2026-11-04T07:00:00.000Z"
+    },
+    {
+      "title": "datasette-apps 0.3a0",
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.3a0\">datasette-apps 0.3a0</a></p> <p>Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette.</p> <p>These can be created by hand, but it's easier to create them using LLMs via <a href=\"https://agent.datasette.io/\">Datasette Agent</a>. This release improves that",
+      "date": "2026-11-04T00:29:36.000Z"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "date": "2026-11-04T00:00:00.000Z"
     }
   ]
 }
