@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-05T14:52:18.417Z",
+  "generatedAt": "2026-11-06T14:30:26.059Z",
   "items": [
     {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "date": "2026-11-05T02:00:00.000Z"
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "link": "https://www.ricursive.com/ripple",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 315 # Comments: 113",
-      "date": "2026-11-04T18:53:29.000Z"
-    },
-    {
-      "title": "Writing and Updating K–12 AI Use Policies That Meet the Moment",
-      "link": "https://edtechmagazine.com/k12/article/2026/11/writing-and-updating-k-12-ai-use-policies-meet-moment-perfcon",
-      "source": "EdTech K-12",
-      "tag": "education",
-      "blurb": "As many K–12 schools shift their artificial intelligence use from simple chatbots to more sophisticated agentic tools, AI policy for schools is not keeping pace. While 8 in 10 K–12 districts have adopted an AI policy, it remains difficult to keep up to date with the technology’s continuing innovation. “The models now change on a cadence of weeks, not months or years, and district policy changes mu",
-      "date": "2026-11-04T18:52:12.000Z"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-      "date": "2026-11-04T18:50:55.000Z"
+      "blurb": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+      "date": "2026-11-06T10:00:00.000Z"
     },
     {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 590 # Comments: 167",
-      "date": "2026-11-04T15:30:30.000Z"
+      "blurb": "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50389222 Points: 364 # Comments: 303",
+      "date": "2026-11-06T07:22:04.000Z"
     },
     {
-      "title": "datasette-llm 0.1a10",
-      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a10\">datasette-llm 0.1a10</a></p> <p>Fixes a <a href=\"https://github.com/datasette/datasette-llm/pull/11\">bug</a> that affected my <a href=\"https://agent.datasette.io/\">agent.datasette.io</a> demo site, where the set of available LLM models was not correctly restricted to just those in the configuratio",
-      "date": "2026-11-04T15:26:02.000Z"
-    },
-    {
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "link": "https://news.ycombinator.com/item?id=50366117",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc)- Which tiers?- Have you purchased multiple subscriptions from the same provide",
-      "date": "2026-11-04T14:37:22.000Z"
+      "blurb": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 427 # Comments: 195",
+      "date": "2026-11-05T23:09:57.000Z"
     },
     {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1329 # Comments: 419",
+      "date": "2026-11-05T22:17:15.000Z"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 611 # Comments: 226",
+      "date": "2026-11-05T20:43:42.000Z"
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "date": "2026-11-04T14:30:00.000Z"
+      "blurb": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "date": "2026-11-05T20:00:00.000Z"
     },
     {
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "date": "2026-11-04T08:00:00.000Z"
+      "title": "National AI Research Report Covers How Tools Are Used in Classrooms",
+      "link": "https://edtechmagazine.com/k12/article/2026/11/national-ai-research-report-covers-how-tools-are-used-classrooms",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "In the last few years, artificial intelligence has permeated nearly every industry, and K–12 education is no exception. Hanover Research set out to discover exactly how students and educators are using AI in the classroom. The firm found that while AI use is increasingly common in schools, there are major gaps in guidance, appropriate use and training. In its K–12 AI Integration Trends report, Han",
+      "date": "2026-11-05T19:35:54.000Z"
     },
     {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "date": "2026-11-04T07:00:00.000Z"
-    },
-    {
-      "title": "datasette-apps 0.3a0",
-      "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "title": "Quoting Paul Ford",
+      "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.3a0\">datasette-apps 0.3a0</a></p> <p>Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette.</p> <p>These can be created by hand, but it's easier to create them using LLMs via <a href=\"https://agent.datasette.io/\">Datasette Agent</a>. This release improves that",
-      "date": "2026-11-04T00:29:36.000Z"
+      "blurb": "<blockquote cite=\"https://ftrain.com/aboard-the-web-is-more-than-enough\"><p>The web browser is very, very, very powerful software for applications, <em>and the cost of accessing that power is going down seemingly every day</em>.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://ftrain.com/aboard-the-web-is-more-than-enough\">Paul Ford</a>, The Web Is More Than Enough</p> <p>Tags: <a href=\"h",
+      "date": "2026-11-05T17:34:03.000Z"
     },
     {
-      "title": "Introducing Images 2.6",
-      "link": "https://openai.com/index/introducing-images-2-6",
+      "title": "Australian universities are creating AI-native graduates",
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "date": "2026-11-04T00:00:00.000Z"
+      "blurb": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "date": "2026-11-05T17:00:00.000Z"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "date": "2026-11-05T09:00:00.000Z"
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "date": "2026-11-05T08:00:00.000Z"
+    },
+    {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "date": "2026-11-05T00:45:15.000Z"
     }
   ]
 }
