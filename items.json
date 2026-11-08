@@ -1,61 +1,37 @@
 {
-  "generatedAt": "2026-11-07T13:26:19.977Z",
+  "generatedAt": "2026-11-08T13:46:11.328Z",
   "items": [
     {
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "source": "Ars Technica",
+      "title": "Goodbye Claude, Hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "date": "2026-11-06T20:56:41.000Z"
+      "blurb": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 424 # Comments: 266",
+      "date": "2026-11-08T03:11:48.000Z"
     },
     {
-      "title": "Quoting Nilay Patel",
-      "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://www.youtube.com/watch?v=-U4thshDTL8&amp;t=422s\"><p>The products aren't good enough to sell people on the costs.</p> <p>You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history.</p> <p>It's not worth it. It just isn't worth it to anyone. And agents aren't real an",
-      "date": "2026-11-06T17:13:12.000Z"
+      "blurb": "<p><strong><a href=\"https://github.com/simonw/datasette/issues/3046\">datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages</a></strong></p> I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an <a href=\"https://developer.mozilla.org/en-US/docs/Glossary/Prefetch\">HTTP prefetch</a> to the next page",
+      "date": "2026-11-07T23:57:46.000Z"
     },
     {
-      "title": "Gemini Omni 1.2 Flash",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 347 # Comments: 234",
-      "date": "2026-11-06T13:35:27.000Z"
+      "blurb": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 454 # Comments: 317",
+      "date": "2026-11-07T20:45:32.000Z"
     },
     {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "date": "2026-11-06T08:00:00.000Z"
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "link": "https://hunch.net/?p=13764006",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 356 # Comments: 289",
-      "date": "2026-11-06T04:00:28.000Z"
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "date": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "link": "https://openai.com/index/franklin-templeton",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "date": "2026-11-05T00:00:00.000Z"
+      "blurb": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 476 # Comments: 287",
+      "date": "2026-11-07T18:02:17.000Z"
     }
   ]
 }
