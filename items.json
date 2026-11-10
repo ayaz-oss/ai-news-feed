@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-09T16:45:25.271Z",
+  "generatedAt": "2026-11-10T15:08:52.962Z",
   "items": [
     {
-      "title": "Innovating with AI in the special chemicals industry",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "date": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "date": "2026-11-10T09:00:00.000Z"
+    },
+    {
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://research.meta.ai/blog/muse-ember\">Introducing Our Smallest, Most Efficient Model: Muse Ember</a></strong></p> Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:</p> <blockquote> <p>[...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, ",
+      "date": "2026-11-10T07:28:21.000Z"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "date": "2026-11-10T07:00:00.000Z"
+    },
+    {
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code\"><p>Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to",
+      "date": "2026-11-10T05:34:14.000Z"
+    },
+    {
+      "title": "Yonkers Rises",
+      "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/yonkers-rises\">Yonkers Rises</a></p> <p>I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I <a href=\"https://claude.ai/share/97443910-2e0a-4e17-9b9e-11d14d8ff65c\">prompted Fable ",
+      "date": "2026-11-10T03:53:04.000Z"
+    },
+    {
+      "title": "llm-anthropic 0.31",
+      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.31\">llm-anthropic 0.31</a></p> <p>Anthropic <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">released Fable 5.2 and Mythos 5.2</a> today. Fable 5.2 is currently <a href=\"https://artificialanalysis.ai/models/claude-fable-5-2\">ranked first on Artificial Analysis</a>. Anthropic say it \"solved t",
+      "date": "2026-11-09T23:58:46.000Z"
+    },
+    {
+      "title": "Locating the source of a mysterious beep with Claude",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p>Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started <em>intermittently beeping</em>. The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build <a h",
+      "date": "2026-11-09T23:57:21.000Z"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, ",
-      "date": "2026-11-09T13:00:00.000Z"
+      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "date": "2026-11-09T19:35:33.000Z"
     },
     {
-      "title": "Humans will never again create a project like Wikipedia",
-      "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "date": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia Comments URL: https://news.ycombinator.com/item?id=50424704 Points: 386 # Comments: 311",
-      "date": "2026-11-09T12:30:20.000Z"
+      "blurb": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 738 # Comments: 894",
+      "date": "2026-11-09T18:01:10.000Z"
     },
     {
-      "title": "Fold Epic Paper Airplanes",
-      "link": "https://www.foldableflight.com",
-      "source": "Hacker News",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 438 # Comments: 79",
-      "date": "2026-11-09T12:19:22.000Z"
-    },
-    {
-      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-      "link": "https://arxiv.org/abs/2610.14162",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://arxiv.org/abs/2610.14162 Comments URL: https://news.ycombinator.com/item?id=50422168 Points: 157 # Comments: 33",
-      "date": "2026-11-09T07:20:37.000Z"
-    },
-    {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, this comment convinced me to give that a shot.</p> <p>Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: <a href=\"https://static.simonwillison.net/sta",
-      "date": "2026-11-09T04:32:33.000Z"
-    },
-    {
-      "title": "Hide your slop PR descriptions behind <details><summary>",
-      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions.</p> <h4 id=\"they-re-too-good-at-describing-the-work\"",
-      "date": "2026-11-09T04:25:05.000Z"
-    },
-    {
-      "title": "Can AI Tell How Well Teachers Notice? Researchers Are Testing It.",
-      "link": "https://www.edsurge.com/news/can-ai-tell-how-well-teachers-notice-researchers-are-testing-it",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "The team will study whether AI can measure a key teaching skill and provide useful feedback faster than humans.",
-      "date": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "title": "I'm not convinced the AI bubble exists",
-      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 481 # Comments: 825",
-      "date": "2026-11-08T23:44:36.000Z"
-    },
-    {
-      "title": "parse_number() as a SQLite extension: C vs Rust",
-      "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme\">parse_number() as a SQLite extension: C vs Rust</a></p> <p>I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a <code>parse_number()</code> function for turning strings like <code>-$1,234.56</code> or <code>",
-      "date": "2026-11-08T22:26:00.000Z"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff..., https://archive.ph/Hxn5hhttps://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a..., https://archive.ph/atMcphttps://www.cnn.com/2026/11/08/business/nvidia-investigation... Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 890 # Comments: 1106",
-      "date": "2026-11-08T22:20:09.000Z"
-    },
-    {
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 499 # Comments: 340",
-      "date": "2026-11-08T19:20:32.000Z"
-    },
-    {
-      "title": "Terry Pratchett's Study",
-      "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=50405674#50407316\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50405674\">Terry Pratchett&#x27;s Study</a> &mdash; Hacker News.</p><p>Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more mo",
-      "date": "2026-11-07T19:34:24.000Z"
+      "blurb": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+      "date": "2026-11-09T17:05:43.000Z"
     }
   ]
 }
