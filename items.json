@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-11T14:39:16.662Z",
+  "generatedAt": "2026-11-12T15:30:22.961Z",
   "items": [
     {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Anthropic IPO",
+      "link": "https://ipo.anthropic.com/us/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 304 # Comments: 325",
+      "date": "2026-11-12T11:46:41.000Z"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "blurb": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "date": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "date": "2026-11-12T00:00:00.000Z"
     },
     {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "link": "https://pietromiotti.com/latest/maya-site/?maya",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 320 # Comments: 127",
-      "date": "2026-11-11T12:05:22.000Z"
+      "blurb": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 523 # Comments: 68",
+      "date": "2026-11-11T22:34:23.000Z"
     },
     {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "date": "2026-11-11T08:00:00.000Z"
-    },
-    {
-      "title": "The Day the Take-Home Essay Died: How I Stopped Grading AI and Started Designing Real Learning",
-      "link": "https://www.edsurge.com/news/the-day-the-take-home-essay-died-how-i-stopped-grading-ai-and-started-designing-real-learning",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "When generative AI exposed the flaws in my traditional assignments, I redesigned student learning experiences — turning AI from a cheating tool to a ...",
-      "date": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 374 # Comments: 378",
-      "date": "2026-11-10T21:25:03.000Z"
-    },
-    {
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "source": "Ars Technica",
-      "tag": "dev",
-      "blurb": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "date": "2026-11-10T21:12:59.000Z"
-    },
-    {
-      "title": "llm-gemini 0.36",
-      "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "title": "Gemini Decisions API",
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.36\">llm-gemini 0.36</a></p> <p>Gemini 4 Carbon was announced <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\">two weeks ago</a> for \"a subset of cyber defenders\", but today it's <a href=\"https://blog.google/innovation-and-ai/models-and-research/gem",
-      "date": "2026-11-10T20:09:44.000Z"
+      "blurb": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">Gemini Decisions API</a></strong></p> Google join <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">Jev</a> and <a href=\"https://simonwillison.net/2026/Oct/6/llm-openai-decisions/\">OpenAI</a> in the decision model category with \"Gemini Decision 1\". This new model API is almost identical ",
+      "date": "2026-11-11T22:03:25.000Z"
     },
     {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 435 # Comments: 250",
-      "date": "2026-11-10T18:02:02.000Z"
+      "blurb": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 626 # Comments: 637",
+      "date": "2026-11-11T21:24:35.000Z"
     },
     {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance",
+      "title": "aws-emulator",
+      "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://github.com/aws/aws-emulator\">aws-emulator</a></strong></p> Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.</p> <p>It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote",
+      "date": "2026-11-11T21:18:30.000Z"
+    },
+    {
+      "title": "Browse tools.simonwillison.net by tag",
+      "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://tools.simonwillison.net/#tags\">Browse tools.simonwillison.net by tag</a></strong></p> I've been wanting a better way to browse my <a href=\"\">collection of vibe-coded tools</a> (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using <a href=\"https://github.com/tree-sitter/py-tree-sitter\">tree-sitter</a> to ",
+      "date": "2026-11-11T18:42:50.000Z"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0])Models know about some of these by name, but consistently won't default t",
-      "date": "2026-11-10T18:01:15.000Z"
+      "blurb": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 511 # Comments: 148",
+      "date": "2026-11-11T18:32:42.000Z"
     },
     {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
+      "title": "llm 0.37.2",
+      "link": "https://simonwillison.net/2026/Nov/11/llm/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "date": "2026-11-10T10:00:00.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.2\">llm 0.37.2</a></p> <p>Fixes a security issue reported by <a href=\"https://github.com/BluePlexus\">Daniel de Araujo</a> in <a href=\"https://github.com/simonw/llm/security/advisories/GHSA-v9h7-jj4g-f862\">GHSA-v9h7-jj4g-f862</a> and <a href=\"https://github.com/simonw/llm/security/advisories/GHSA-r639-rr7r-x72w\">GH",
+      "date": "2026-11-11T17:19:52.000Z"
     },
     {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "link": "https://openai.com/index/singapore-airlines-travel-work",
-      "source": "OpenAI News",
+      "title": "Anthropic's IPO roadshow video",
+      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "date": "2026-11-10T08:00:00.000Z"
+      "blurb": "<p><strong><a href=\"https://ipo.anthropic.com/us/#roadshow-video\">Anthropic&#x27;s IPO roadshow video</a></strong></p> Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.</p> <p>The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train ",
+      "date": "2026-11-11T15:11:59.000Z"
     },
     {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "link": "https://openai.com/index/cogent-security",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "date": "2026-11-10T00:00:00.000Z"
+      "blurb": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "date": "2026-11-11T00:00:00.000Z"
     }
   ]
 }
