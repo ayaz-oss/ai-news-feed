@@ -1,101 +1,85 @@
 {
-  "generatedAt": "2026-11-12T15:30:22.961Z",
+  "generatedAt": "2026-11-13T14:49:44.180Z",
   "items": [
     {
-      "title": "Anthropic IPO",
-      "link": "https://ipo.anthropic.com/us/",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "link": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 304 # Comments: 325",
-      "date": "2026-11-12T11:46:41.000Z"
+      "blurb": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 349 # Comments: 302",
+      "date": "2026-11-13T10:18:13.000Z"
     },
     {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "link": "https://brave.com/blog/search-api-agentic-payments/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 188 # Comments: 103",
+      "date": "2026-11-13T03:08:08.000Z"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 296 # Comments: 88",
+      "date": "2026-11-12T23:06:17.000Z"
+    },
+    {
+      "title": "llm-gemini 0.37",
+      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.37\">llm-gemini 0.37</a></p> <p>Google launched <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\">Gemini 4 Hydrogen</a> today - the lowest cost member of the Gemini 4 family.</p> <p>It's actually not too far off the price of its much bigger sibling",
+      "date": "2026-11-12T22:55:19.000Z"
+    },
+    {
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 241 # Comments: 33",
+      "date": "2026-11-12T21:13:26.000Z"
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
+      "date": "2026-11-12T20:16:24.000Z"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "date": "2026-11-12T09:30:00.000Z"
+      "blurb": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "date": "2026-11-12T20:00:00.000Z"
     },
     {
-      "title": "Supporting research on AI and children’s safety",
-      "link": "https://openai.com/index/children-first-declaration",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 455 # Comments: 141",
+      "date": "2026-11-12T18:52:01.000Z"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "link": "https://github.com/hyperionaidev/smolmaxxing/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 416 # Comments: 158",
+      "date": "2026-11-12T15:23:10.000Z"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "date": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 523 # Comments: 68",
-      "date": "2026-11-11T22:34:23.000Z"
-    },
-    {
-      "title": "Gemini Decisions API",
-      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">Gemini Decisions API</a></strong></p> Google join <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">Jev</a> and <a href=\"https://simonwillison.net/2026/Oct/6/llm-openai-decisions/\">OpenAI</a> in the decision model category with \"Gemini Decision 1\". This new model API is almost identical ",
-      "date": "2026-11-11T22:03:25.000Z"
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 626 # Comments: 637",
-      "date": "2026-11-11T21:24:35.000Z"
-    },
-    {
-      "title": "aws-emulator",
-      "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://github.com/aws/aws-emulator\">aws-emulator</a></strong></p> Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.</p> <p>It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote",
-      "date": "2026-11-11T21:18:30.000Z"
-    },
-    {
-      "title": "Browse tools.simonwillison.net by tag",
-      "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://tools.simonwillison.net/#tags\">Browse tools.simonwillison.net by tag</a></strong></p> I've been wanting a better way to browse my <a href=\"\">collection of vibe-coded tools</a> (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using <a href=\"https://github.com/tree-sitter/py-tree-sitter\">tree-sitter</a> to ",
-      "date": "2026-11-11T18:42:50.000Z"
-    },
-    {
-      "title": "Gemini Decisions API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 511 # Comments: 148",
-      "date": "2026-11-11T18:32:42.000Z"
-    },
-    {
-      "title": "llm 0.37.2",
-      "link": "https://simonwillison.net/2026/Nov/11/llm/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.2\">llm 0.37.2</a></p> <p>Fixes a security issue reported by <a href=\"https://github.com/BluePlexus\">Daniel de Araujo</a> in <a href=\"https://github.com/simonw/llm/security/advisories/GHSA-v9h7-jj4g-f862\">GHSA-v9h7-jj4g-f862</a> and <a href=\"https://github.com/simonw/llm/security/advisories/GHSA-r639-rr7r-x72w\">GH",
-      "date": "2026-11-11T17:19:52.000Z"
-    },
-    {
-      "title": "Anthropic's IPO roadshow video",
-      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://ipo.anthropic.com/us/#roadshow-video\">Anthropic&#x27;s IPO roadshow video</a></strong></p> Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.</p> <p>The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train ",
-      "date": "2026-11-11T15:11:59.000Z"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "link": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "date": "2026-11-11T00:00:00.000Z"
+      "blurb": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "date": "2026-11-12T12:00:00.000Z"
     }
   ]
 }
