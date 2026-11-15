@@ -1,77 +1,29 @@
 {
-  "generatedAt": "2026-11-14T13:44:00.860Z",
+  "generatedAt": "2026-11-15T14:13:50.762Z",
   "items": [
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 752 # Comments: 440",
-      "date": "2026-11-14T02:52:59.000Z"
-    },
-    {
-      "title": "datasette-cluster-map 0.19",
-      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "title": "datasette-llm 0.1a11",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-cluster-map/releases/tag/0.19\">datasette-cluster-map 0.19</a></p> <p>One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on <a href=\"https://simonwillison.net/2026/Nov/13/datasette-leaflet/\">the new datasette-leaflet</a> to ensure OpenStreetMap tiles are request",
-      "date": "2026-11-13T23:02:45.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a11\">datasette-llm 0.1a11</a></p> <p><code>datasette-llm</code> is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.</p> <p>This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere th",
+      "date": "2026-11-14T23:59:28.000Z"
     },
     {
-      "title": "datasette-leaflet 0.3",
-      "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "link": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 896 # Comments: 341",
+      "date": "2026-11-14T17:43:10.000Z"
+    },
+    {
+      "title": "datasette-vega 0.7",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-leaflet/releases/tag/0.3\">datasette-leaflet 0.3</a></p> <p>OpenStreetMap have a very reasonable policy that hits to their hosted tile server <a href=\"https://wiki.openstreetmap.org/wiki/Referer\">should send a referrer header</a>. Datasette table pages used the <code>Referrer-Policy: no-referrer</code> HTTP header, causing pl",
-      "date": "2026-11-13T22:30:54.000Z"
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "link": "https://orcasairband.com/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 278 # Comments: 65",
-      "date": "2026-11-13T22:04:24.000Z"
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "link": "https://haddyalchaer.com/jepa",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 273 # Comments: 45",
-      "date": "2026-11-13T17:55:28.000Z"
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 358 # Comments: 483",
-      "date": "2026-11-13T15:08:44.000Z"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "date": "2026-11-13T15:00:00.000Z"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "date": "2026-11-13T08:00:00.000Z"
-    },
-    {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 766 # Comments: 215",
-      "date": "2026-11-12T22:03:09.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-vega/releases/tag/0.7\">datasette-vega 0.7</a></p> <p>A new release of Datasette's longest untouched plugin, for rendering charts (using <a href=\"https://vega.github.io/vega-lite/\">Vega-Lite</a>) against data in a table or custom query. The last release was in July 2018!</p> <p>I finally bumped it for compatibility with the l",
+      "date": "2026-11-14T17:09:09.000Z"
     }
   ]
 }
