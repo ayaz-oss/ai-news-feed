@@ -1,29 +1,101 @@
 {
-  "generatedAt": "2026-11-15T14:13:50.762Z",
+  "generatedAt": "2026-11-16T16:16:50.323Z",
   "items": [
     {
-      "title": "datasette-llm 0.1a11",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "source": "Simon Willison",
+      "title": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a11\">datasette-llm 0.1a11</a></p> <p><code>datasette-llm</code> is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.</p> <p>This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere th",
-      "date": "2026-11-14T23:59:28.000Z"
+      "blurb": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+      "date": "2026-11-16T13:00:00.000Z"
     },
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "link": "https://www.crissyfield.de/research/lovable-en/",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "date": "2026-11-16T09:00:00.000Z"
+    },
+    {
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "link": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 896 # Comments: 341",
-      "date": "2026-11-14T17:43:10.000Z"
+      "blurb": "Article URL: https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/ Comments URL: https://news.ycombinator.com/item?id=50515058 Points: 171 # Comments: 61",
+      "date": "2026-11-16T07:38:19.000Z"
     },
     {
-      "title": "datasette-vega 0.7",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "",
+      "date": "2026-11-16T06:00:00.000Z"
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "date": "2026-11-16T06:00:00.000Z"
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 210 # Comments: 55",
+      "date": "2026-11-16T00:21:54.000Z"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "date": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "title": "datasette-maplibre 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-vega/releases/tag/0.7\">datasette-vega 0.7</a></p> <p>A new release of Datasette's longest untouched plugin, for rendering charts (using <a href=\"https://vega.github.io/vega-lite/\">Vega-Lite</a>) against data in a table or custom query. The last release was in July 2018!</p> <p>I finally bumped it for compatibility with the l",
-      "date": "2026-11-14T17:09:09.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0\">datasette-maplibre 0.1a0</a></p> <p>The first new Datasette geospatial plugin in quite a while! This one combines the excellent <a href=\"https://maplibre.org/maplibre-gl-js/docs/\">MapLibre GL</a> library with <a href=\"https://openfreemap.org\">OpenFreeMap</a>, the free vector map server operate",
+      "date": "2026-11-15T23:58:36.000Z"
+    },
+    {
+      "title": "datasette 1.0a43",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a43\">datasette 1.0a43</a></p> <p>I've been leaning hard into Claude Fable 5.2 to help knock things off the <a href=\"https://github.com/simonw/datasette/milestone/37\">1.0 milestone</a>, which is now 53% complete.</p> <p>The biggest 1.0 item in this release is <a href=\"https://docs.datasette.io/en/latest/plugin",
+      "date": "2026-11-15T23:20:27.000Z"
+    },
+    {
+      "title": "datasette 0.65.6",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.6\">datasette 0.65.6</a></p> <p>I backported a minor security fix from 1.0a43:</p> <blockquote> <p>Fixed a security issue where a database registered using <code>add_database(db, name=..., route=...)</code> with a route that differs from its name could be downloaded from <code>/&lt;route&gt;.db</code> by act",
+      "date": "2026-11-15T23:18:17.000Z"
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "date": "2026-11-15T22:00:01.000Z"
+    },
+    {
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "date": "2026-11-15T22:00:00.000Z"
     }
   ]
 }
