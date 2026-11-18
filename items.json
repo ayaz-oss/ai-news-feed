@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-17T16:23:21.836Z",
+  "generatedAt": "2026-11-18T15:54:45.742Z",
   "items": [
     {
-      "title": "Research Reports",
-      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "To access a report, click on the corresponding image below.",
-      "date": "2026-11-17T14:39:46.000Z"
-    },
-    {
-      "title": "Quoting Go Proverbs",
-      "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "title": "The PSF end-of-year fundraiser",
+      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://go-proverbs.github.io\"><p>A little copying is better than a little dependency.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://go-proverbs.github.io\">Go Proverbs</a>, <a href=\"https://news.ycombinator.com/item?id=50516689#50526408\">via</a></p> <p>Tags: <a href=\"https://simonwillison.net/tags/go\">go</a>, <a href=\"https://simonwillison.net/tags/programming\">progra",
-      "date": "2026-11-17T06:16:26.000Z"
+      "blurb": "<p><strong><a href=\"https://donate.python.org\">The PSF end-of-year fundraiser</a></strong></p> With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community.</p> <p>If your company or your work benefits from Python, please consider donating this year!</p> <p>The PSF looks after the IP",
+      "date": "2026-11-18T14:44:48.000Z"
     },
     {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "date": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "date": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "title": "llm 0.37.3",
-      "link": "https://simonwillison.net/2026/Nov/16/llm/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.3\">llm 0.37.3</a></p> <p>A bug fix release for <a href=\"https://llm.datasette.io\">LLM</a>, mainly to cover a problem with the most recent Homebrew package of the software.</p> <p>Homebrew now ships the latest SQLite, <a href=\"https://www.sqlite.org/releaselog/3_54_1.html\">3.54.1</a>, which includes <a href=\"https",
-      "date": "2026-11-16T23:57:26.000Z"
-    },
-    {
-      "title": "The open-source movement wants Jensen Huang back",
-      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "title": "The AI Hype Index: AI is everywhere",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-      "date": "2026-11-16T18:38:47.000Z"
+      "blurb": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+      "date": "2026-11-18T14:42:44.000Z"
     },
     {
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "date": "2026-11-16T17:00:00.000Z"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "date": "2026-11-16T17:00:00.000Z"
-    },
-    {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "source": "MIT Tech Review",
       "tag": "dev",
-      "blurb": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
-      "date": "2026-11-16T16:04:28.000Z"
+      "blurb": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+      "date": "2026-11-18T10:20:30.000Z"
     },
     {
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 410 # Comments: 306",
-      "date": "2026-11-16T13:18:22.000Z"
+      "blurb": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 216 # Comments: 108",
+      "date": "2026-11-18T04:14:04.000Z"
     },
     {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "link": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI News",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "date": "2026-11-16T12:00:00.000Z"
+      "blurb": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 615 # Comments: 465",
+      "date": "2026-11-18T00:17:58.000Z"
     },
     {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "link": "https://openai.com/business/customer-stories/revolut",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "date": "2026-11-16T09:30:00.000Z"
+      "blurb": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "date": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "title": "A New Classroom Use for Artificial Intelligence: Grade the Chat, Not Just the Answer",
+      "link": "https://www.edsurge.com/news/a-new-classroom-use-for-artificial-intelligence-grade-the-chat-not-just-the-answer",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "Two guests on “This Week with EdSurge” explain how AI can be used to assess when students think through their answers and when they talk with chatbots.",
+      "date": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "title": "AI Has a Place in Education, Just Not in My Classroom",
+      "link": "https://www.edsurge.com/news/ai-has-a-place-in-education-just-not-in-my-classroom",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "Despite the rise of AI in schools, a seventh-grade literacy teacher argues for the irreplaceable value of a low-tech classroom centered on foundational ...",
+      "date": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "title": "External sandboxes for coding agents",
+      "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://blog.primeradiant.com/external-sandboxes-for-coding-agents/\">External sandboxes for coding agents</a></strong></p> I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine.</p> <p>I work",
+      "date": "2026-11-17T22:52:29.000Z"
+    },
+    {
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">GPT‑6.2 Astra and GPT‑6.2 Sol</a></strong></p> OpenAI:</p> <blockquote> <p>We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work.</p> </blockquote> <p>They're available in the API as <code>gpt-6.2-astra</code> and <code>gpt-6.2-",
+      "date": "2026-11-17T22:38:52.000Z"
+    },
+    {
+      "title": "How To Ensure Artificial Intelligence Is Enriching Student Learning",
+      "link": "https://edtechmagazine.com/k12/article/2026/11/how-ensure-artificial-intelligence-enriching-student-learning",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "When Wichita Public Schools began exploring generative artificial intelligence in January 2023, the goal was simple: to save teachers some time. By April, it had become something bigger. District leaders saw a chance to design personalized learning experiences for students, and they have built on that idea ever since. “There was an instant shift,” says Dyane Smokorowski, coordinator of digital lit",
+      "date": "2026-11-17T20:50:14.000Z"
+    },
+    {
+      "title": "What Happens When AI Suggests Minecraft for a Lesson on Circles?",
+      "link": "https://www.edsurge.com/news/what-happens-when-ai-suggests-minecraft-for-a-lesson-on-circles",
+      "source": "EdSurge",
+      "tag": "education",
+      "blurb": "New research on AI-powered personalized learning shows why teacher judgment is crucial when chatbots miss the mark.",
+      "date": "2026-11-17T00:00:00.000Z"
     }
   ]
 }
