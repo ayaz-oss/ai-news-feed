@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-18T15:54:45.742Z",
+  "generatedAt": "2026-11-19T15:58:33.891Z",
   "items": [
     {
-      "title": "The PSF end-of-year fundraiser",
-      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "source": "Simon Willison",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "source": "Ars Technica",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://donate.python.org\">The PSF end-of-year fundraiser</a></strong></p> With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community.</p> <p>If your company or your work benefits from Python, please consider donating this year!</p> <p>The PSF looks after the IP",
-      "date": "2026-11-18T14:44:48.000Z"
+      "blurb": "When everything goes down, don’t assume it’s a cyberattack.",
+      "date": "2026-11-19T11:13:01.000Z"
     },
     {
-      "title": "The AI Hype Index: AI is everywhere",
-      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
-      "date": "2026-11-18T14:42:44.000Z"
-    },
-    {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
-      "date": "2026-11-18T10:20:30.000Z"
-    },
-    {
-      "title": "Why is Gemini 4 Carbon taking so long?",
-      "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "link": "https://verialabs.com/ruby2shell/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 216 # Comments: 108",
-      "date": "2026-11-18T04:14:04.000Z"
+      "blurb": "Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 282 # Comments: 111",
+      "date": "2026-11-19T05:09:11.000Z"
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "title": "llm-gemini 0.38",
+      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.38\">llm-gemini 0.38</a></p> <p>Today Google <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">introduced Gemini 4 Neon</a>. I <a href=\"https://simonwillison.net/2026/Nov/12/llm-gemini/\">wrote recently</a> about how confusing the pricing for the Gemini",
+      "date": "2026-11-18T23:59:20.000Z"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 615 # Comments: 465",
-      "date": "2026-11-18T00:17:58.000Z"
+      "blurb": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 357 # Comments: 664",
+      "date": "2026-11-18T23:30:09.000Z"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI News",
+      "title": "Gemini 4 Neon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "date": "2026-11-18T00:00:00.000Z"
+      "blurb": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 946 # Comments: 730",
+      "date": "2026-11-18T21:34:07.000Z"
     },
     {
-      "title": "A New Classroom Use for Artificial Intelligence: Grade the Chat, Not Just the Answer",
-      "link": "https://www.edsurge.com/news/a-new-classroom-use-for-artificial-intelligence-grade-the-chat-not-just-the-answer",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "Two guests on “This Week with EdSurge” explain how AI can be used to assess when students think through their answers and when they talk with chatbots.",
-      "date": "2026-11-18T00:00:00.000Z"
-    },
-    {
-      "title": "AI Has a Place in Education, Just Not in My Classroom",
-      "link": "https://www.edsurge.com/news/ai-has-a-place-in-education-just-not-in-my-classroom",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "Despite the rise of AI in schools, a seventh-grade literacy teacher argues for the irreplaceable value of a low-tech classroom centered on foundational ...",
-      "date": "2026-11-18T00:00:00.000Z"
-    },
-    {
-      "title": "External sandboxes for coding agents",
-      "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://blog.primeradiant.com/external-sandboxes-for-coding-agents/\">External sandboxes for coding agents</a></strong></p> I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine.</p> <p>I work",
-      "date": "2026-11-17T22:52:29.000Z"
-    },
-    {
-      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">GPT‑6.2 Astra and GPT‑6.2 Sol</a></strong></p> OpenAI:</p> <blockquote> <p>We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work.</p> </blockquote> <p>They're available in the API as <code>gpt-6.2-astra</code> and <code>gpt-6.2-",
-      "date": "2026-11-17T22:38:52.000Z"
-    },
-    {
-      "title": "How To Ensure Artificial Intelligence Is Enriching Student Learning",
-      "link": "https://edtechmagazine.com/k12/article/2026/11/how-ensure-artificial-intelligence-enriching-student-learning",
+      "title": "How To Manage AI Feature Creep in K–12 Ed Tech",
+      "link": "https://edtechmagazine.com/k12/article/2026/11/how-manage-ai-feature-creep-k-12-ed-tech",
       "source": "EdTech K-12",
       "tag": "education",
-      "blurb": "When Wichita Public Schools began exploring generative artificial intelligence in January 2023, the goal was simple: to save teachers some time. By April, it had become something bigger. District leaders saw a chance to design personalized learning experiences for students, and they have built on that idea ever since. “There was an instant shift,” says Dyane Smokorowski, coordinator of digital lit",
-      "date": "2026-11-17T20:50:14.000Z"
+      "blurb": "Key Takeaways Inventory existing AI tools, including providers, data access and risk tiers. Require vendors to notify you before adding AI to contracted systems. Ask procurement about planned AI upgrades, data access and security controls. Give someone with authority to pause rollouts accountability for AI oversight.",
+      "date": "2026-11-18T17:28:54.000Z"
     },
     {
-      "title": "What Happens When AI Suggests Minecraft for a Lesson on Circles?",
-      "link": "https://www.edsurge.com/news/what-happens-when-ai-suggests-minecraft-for-a-lesson-on-circles",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "New research on AI-powered personalized learning shows why teacher judgment is crucial when chatbots miss the mark.",
-      "date": "2026-11-17T00:00:00.000Z"
+      "title": "datasette-arrows 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-arrows/releases/tag/0.1a0\">datasette-arrows 0.1a0</a></p> <p><a href=\"https://docs.datasette.io/en/latest/changelog.html#a43-2026-11-15\">Datasette 1.0a43</a> added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a ",
+      "date": "2026-11-18T17:09:59.000Z"
+    },
+    {
+      "title": "Quoting Daniel Stenberg",
+      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<blockquote cite=\"https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/\"><p>During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust r",
+      "date": "2026-11-18T15:58:27.000Z"
+    },
+    {
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "date": "2026-11-18T10:00:00.000Z"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "date": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "date": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "date": "2026-11-18T08:00:00.000Z"
     }
   ]
 }
