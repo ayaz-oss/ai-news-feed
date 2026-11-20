@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-19T15:58:33.891Z",
+  "generatedAt": "2026-11-20T15:41:34.574Z",
   "items": [
     {
-      "title": "How to tell a cyberattack from a plain old outage",
-      "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-      "source": "Ars Technica",
-      "tag": "dev",
-      "blurb": "When everything goes down, don’t assume it’s a cyberattack.",
-      "date": "2026-11-19T11:13:01.000Z"
-    },
-    {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "link": "https://verialabs.com/ruby2shell/",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "link": "https://alpo.ge/remark.pdf",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 282 # Comments: 111",
-      "date": "2026-11-19T05:09:11.000Z"
+      "blurb": "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 519 # Comments: 271",
+      "date": "2026-11-20T14:16:21.000Z"
     },
     {
-      "title": "llm-gemini 0.38",
-      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "link": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 372 # Comments: 241",
+      "date": "2026-11-20T10:01:41.000Z"
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 303 # Comments: 183",
+      "date": "2026-11-20T09:43:19.000Z"
+    },
+    {
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.38\">llm-gemini 0.38</a></p> <p>Today Google <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">introduced Gemini 4 Neon</a>. I <a href=\"https://simonwillison.net/2026/Nov/12/llm-gemini/\">wrote recently</a> about how confusing the pricing for the Gemini",
-      "date": "2026-11-18T23:59:20.000Z"
+      "blurb": "<p><strong><a href=\"https://www.youtube.com/watch?v=ZDpP7JXPlhc\">Token fraud is here and it’s BAD (YouTube)</a></strong></p> Claire Vo runs <a href=\"https://www.chatprd.ai\">ChatPRD</a>, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time.</p> <p>In this YouTube video (s",
+      "date": "2026-11-20T02:49:57.000Z"
     },
     {
-      "title": "Anthropic prices initial public offering",
-      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "source": "Hacker News",
+      "title": "PostgreSQL 19 Released",
+      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 357 # Comments: 664",
-      "date": "2026-11-18T23:30:09.000Z"
+      "blurb": "<p><strong><a href=\"https://www.postgresql.org/about/news/postgresql-19-released-3449/\">PostgreSQL 19 Released</a></strong></p> Most years PostgreSQL ships a new release in September, but this year's release came two months later <a href=\"https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\">thanks mainly</a> to the flurry of issues that the PostgreSQL team needed to addre",
+      "date": "2026-11-19T20:43:57.000Z"
     },
     {
-      "title": "Gemini 4 Neon",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "source": "Hacker News",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 946 # Comments: 730",
-      "date": "2026-11-18T21:34:07.000Z"
+      "blurb": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "date": "2026-11-19T08:00:00.000Z"
     },
     {
-      "title": "How To Manage AI Feature Creep in K–12 Ed Tech",
-      "link": "https://edtechmagazine.com/k12/article/2026/11/how-manage-ai-feature-creep-k-12-ed-tech",
-      "source": "EdTech K-12",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "date": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "date": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "title": "Google Says Schools Can’t Have Search Without AI. Some Are Finding a Way.",
+      "link": "https://www.edsurge.com/news/google-says-schools-cant-have-search-without-ai-some-are-finding-a-way",
+      "source": "EdSurge",
       "tag": "education",
-      "blurb": "Key Takeaways Inventory existing AI tools, including providers, data access and risk tiers. Require vendors to notify you before adding AI to contracted systems. Ask procurement about planned AI upgrades, data access and security controls. Give someone with authority to pause rollouts accountability for AI oversight.",
-      "date": "2026-11-18T17:28:54.000Z"
+      "blurb": "Districts and filtering companies were blocking AI search results long before Google’s new policy.",
+      "date": "2026-11-19T00:00:00.000Z"
     },
     {
-      "title": "datasette-arrows 0.1a0",
-      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-arrows/releases/tag/0.1a0\">datasette-arrows 0.1a0</a></p> <p><a href=\"https://docs.datasette.io/en/latest/changelog.html#a43-2026-11-15\">Datasette 1.0a43</a> added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a ",
-      "date": "2026-11-18T17:09:59.000Z"
-    },
-    {
-      "title": "Quoting Daniel Stenberg",
-      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/\"><p>During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust r",
-      "date": "2026-11-18T15:58:27.000Z"
-    },
-    {
-      "title": "The Silent Consensus",
-      "link": "https://openai.com/index/the-silent-consensus",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "date": "2026-11-18T10:00:00.000Z"
+      "blurb": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "date": "2026-11-19T00:00:00.000Z"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "date": "2026-11-18T08:00:00.000Z"
+      "blurb": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "date": "2026-11-19T00:00:00.000Z"
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "date": "2026-11-18T08:00:00.000Z"
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "link": "https://openai.com/index/inside-the-codex-sandbox",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "date": "2026-11-18T08:00:00.000Z"
+      "blurb": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "date": "2026-11-18T06:00:00.000Z"
     }
   ]
 }
