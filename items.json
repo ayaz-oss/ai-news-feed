@@ -1,101 +1,85 @@
 {
-  "generatedAt": "2026-11-20T15:41:34.574Z",
+  "generatedAt": "2026-11-21T14:52:11.654Z",
   "items": [
     {
-      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-      "link": "https://alpo.ge/remark.pdf",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "link": "https://ninlive.com/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 519 # Comments: 271",
-      "date": "2026-11-20T14:16:21.000Z"
+      "blurb": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 302 # Comments: 79",
+      "date": "2026-11-20T22:30:47.000Z"
     },
     {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "link": "https://architectlabs.com/blog/frostbite",
-      "source": "Hacker News",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
       "tag": "dev",
-      "blurb": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 372 # Comments: 241",
-      "date": "2026-11-20T10:01:41.000Z"
+      "blurb": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "date": "2026-11-20T20:59:08.000Z"
     },
     {
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 303 # Comments: 183",
-      "date": "2026-11-20T09:43:19.000Z"
-    },
-    {
-      "title": "Token fraud is here and it’s BAD (YouTube)",
-      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "title": "Quoting Ravi Vakil",
+      "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.youtube.com/watch?v=ZDpP7JXPlhc\">Token fraud is here and it’s BAD (YouTube)</a></strong></p> Claire Vo runs <a href=\"https://www.chatprd.ai\">ChatPRD</a>, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time.</p> <p>In this YouTube video (s",
-      "date": "2026-11-20T02:49:57.000Z"
+      "blurb": "<blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"><p>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Sta",
+      "date": "2026-11-20T19:21:49.000Z"
     },
     {
-      "title": "PostgreSQL 19 Released",
-      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+      "date": "2026-11-20T18:15:15.000Z"
+    },
+    {
+      "title": "Quoting Levent Alpöge",
+      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.postgresql.org/about/news/postgresql-19-released-3449/\">PostgreSQL 19 Released</a></strong></p> Most years PostgreSQL ships a new release in September, but this year's release came two months later <a href=\"https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\">thanks mainly</a> to the flurry of issues that the PostgreSQL team needed to addre",
-      "date": "2026-11-19T20:43:57.000Z"
+      "blurb": "<blockquote cite=\"https://alpo.ge/remark.pdf\"><p>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel tha",
+      "date": "2026-11-20T16:30:48.000Z"
     },
     {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "link": "https://arxiv.org/abs/2611.21885",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 443 # Comments: 128",
+      "date": "2026-11-20T16:29:06.000Z"
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 396 # Comments: 702",
+      "date": "2026-11-20T13:29:59.000Z"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "date": "2026-11-19T08:00:00.000Z"
+      "blurb": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "date": "2026-11-20T10:00:00.000Z"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "date": "2026-11-19T00:00:00.000Z"
+      "blurb": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "date": "2026-11-20T00:00:00.000Z"
     },
     {
-      "title": "See PR scans in action",
-      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "date": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "title": "Google Says Schools Can’t Have Search Without AI. Some Are Finding a Way.",
-      "link": "https://www.edsurge.com/news/google-says-schools-cant-have-search-without-ai-some-are-finding-a-way",
-      "source": "EdSurge",
-      "tag": "education",
-      "blurb": "Districts and filtering companies were blocking AI search results long before Google’s new policy.",
-      "date": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "date": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "title": "Get started with Daybreak Blue",
-      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "date": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "link": "https://openai.com/index/managing-frontier-ai-risk",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "date": "2026-11-18T06:00:00.000Z"
+      "blurb": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "date": "2026-11-20T00:00:00.000Z"
     }
   ]
 }
