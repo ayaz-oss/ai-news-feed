@@ -1,85 +1,37 @@
 {
-  "generatedAt": "2026-11-21T14:52:11.654Z",
+  "generatedAt": "2026-11-22T14:48:36.919Z",
   "items": [
     {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "link": "https://ninlive.com/",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 302 # Comments: 79",
-      "date": "2026-11-20T22:30:47.000Z"
+      "blurb": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 308 # Comments: 420",
+      "date": "2026-11-22T08:57:34.000Z"
     },
     {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "source": "Ars Technica",
-      "tag": "dev",
-      "blurb": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "date": "2026-11-20T20:59:08.000Z"
-    },
-    {
-      "title": "Quoting Ravi Vakil",
-      "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "title": "Muru",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"><p>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Sta",
-      "date": "2026-11-20T19:21:49.000Z"
+      "blurb": "<p><strong><a href=\"https://github.com/muruhq/muru\">Muru</a></strong></p> Graham Dumpleton started <a href=\"https://modwsgi.readthedocs.io/\">mod_wsgi</a> 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.</p> <p>Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps ",
+      "date": "2026-11-21T23:56:28.000Z"
     },
     {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Tech Review",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
-      "date": "2026-11-20T18:15:15.000Z"
+      "blurb": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 1160 # Comments: 248",
+      "date": "2026-11-20T21:03:12.000Z"
     },
     {
-      "title": "Quoting Levent Alpöge",
-      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "title": "llm-gemini 0.38.1",
+      "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<blockquote cite=\"https://alpo.ge/remark.pdf\"><p>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel tha",
-      "date": "2026-11-20T16:30:48.000Z"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "link": "https://arxiv.org/abs/2611.21885",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 443 # Comments: 128",
-      "date": "2026-11-20T16:29:06.000Z"
-    },
-    {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 396 # Comments: 702",
-      "date": "2026-11-20T13:29:59.000Z"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "date": "2026-11-20T10:00:00.000Z"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "date": "2026-11-20T00:00:00.000Z"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "date": "2026-11-20T00:00:00.000Z"
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.38.1\">llm-gemini 0.38.1</a></p> <p>Gemini 4 Carbon only supports <code>low</code>, <code>medium</code> and <code>high</code> reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra <code>xhigh</code> level.</p> <p>I missed that when I added those models to the <code>llm-gemini</code> plu",
+      "date": "2026-11-20T03:01:57.000Z"
     }
   ]
 }
