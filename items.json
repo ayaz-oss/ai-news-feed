@@ -1,37 +1,45 @@
 {
-  "generatedAt": "2026-11-22T14:48:36.919Z",
+  "generatedAt": "2026-11-23T18:38:51.152Z",
   "items": [
     {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+      "date": "2026-11-23T17:36:08.000Z"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "link": "https://z.ai/blog/glm-5.4",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 308 # Comments: 420",
-      "date": "2026-11-22T08:57:34.000Z"
+      "blurb": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 839 # Comments: 299",
+      "date": "2026-11-23T10:06:43.000Z"
     },
     {
-      "title": "Muru",
-      "link": "https://simonwillison.net/2026/Nov/21/muru/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://github.com/muruhq/muru\">Muru</a></strong></p> Graham Dumpleton started <a href=\"https://modwsgi.readthedocs.io/\">mod_wsgi</a> 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.</p> <p>Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps ",
-      "date": "2026-11-21T23:56:28.000Z"
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 1160 # Comments: 248",
-      "date": "2026-11-20T21:03:12.000Z"
+      "blurb": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 696 # Comments: 279",
+      "date": "2026-11-22T21:01:16.000Z"
     },
     {
-      "title": "llm-gemini 0.38.1",
-      "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "title": "Select Styling Specimens",
+      "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.38.1\">llm-gemini 0.38.1</a></p> <p>Gemini 4 Carbon only supports <code>low</code>, <code>medium</code> and <code>high</code> reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra <code>xhigh</code> level.</p> <p>I missed that when I added those models to the <code>llm-gemini</code> plu",
-      "date": "2026-11-20T03:01:57.000Z"
+      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/select-styling\">Select Styling Specimens</a></p> <p>I got frustrated at how HTML <code>&lt;select&gt;</code> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:</p> <p><img alt=\"The same select box in Chrome, Safari, and Firefox, Chrome is white with a black border. Safari is grey with ",
+      "date": "2026-11-22T19:45:06.000Z"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "date": "2026-11-22T00:00:00.000Z"
     }
   ]
 }
