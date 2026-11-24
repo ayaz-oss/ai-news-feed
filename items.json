@@ -1,45 +1,101 @@
 {
-  "generatedAt": "2026-11-23T18:38:51.152Z",
+  "generatedAt": "2026-11-24T18:07:59.086Z",
   "items": [
     {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Tech Review",
-      "tag": "dev",
-      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
-      "date": "2026-11-23T17:36:08.000Z"
-    },
-    {
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "link": "https://z.ai/blog/glm-5.4",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 839 # Comments: 299",
-      "date": "2026-11-23T10:06:43.000Z"
-    },
-    {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News",
-      "tag": "dev",
-      "blurb": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 696 # Comments: 279",
-      "date": "2026-11-22T21:01:16.000Z"
-    },
-    {
-      "title": "Select Styling Specimens",
-      "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
       "source": "Simon Willison",
       "tag": "dev",
-      "blurb": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/select-styling\">Select Styling Specimens</a></p> <p>I got frustrated at how HTML <code>&lt;select&gt;</code> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:</p> <p><img alt=\"The same select box in Chrome, Safari, and Firefox, Chrome is white with a black border. Safari is grey with ",
-      "date": "2026-11-22T19:45:06.000Z"
+      "blurb": "<p><strong><a href=\"https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\">GPT 6.2 Astra Solves a Historical Mystery</a></strong></p> Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries:</p> <blockquote> <p>With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1",
+      "date": "2026-11-24T16:53:59.000Z"
     },
     {
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Tidal bans AI-generated music",
+      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 227 # Comments: 185",
+      "date": "2026-11-24T16:12:38.000Z"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Tech Review",
+      "tag": "dev",
+      "blurb": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+      "date": "2026-11-24T15:15:16.000Z"
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "Hacker News",
+      "tag": "dev",
+      "blurb": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 652 # Comments: 270",
+      "date": "2026-11-24T12:40:15.000Z"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "tag": "dev",
+      "blurb": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "date": "2026-11-24T12:30:05.000Z"
+    },
+    {
+      "title": "datasette-charts 0.2a0",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a0\">datasette-charts 0.2a0</a></p> <p>I introduced this new charting plugin for Datasette <a href=\"https://simonwillison.net/2026/Nov/23/datasette-charts/\">yesterday</a>. Today it's gained integration with <a href=\"https://agent.datasette.io/\">Datasette Agent</a>, so now you can ask chat for a chart",
+      "date": "2026-11-24T04:24:29.000Z"
+    },
+    {
+      "title": "datasette-agent 0.7a1",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.7a1\">datasette-agent 0.7a1</a></p> <p>A small improvement to <a href=\"https://agent.datasette.io/\">Datasette Agent</a>: chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with ot",
+      "date": "2026-11-24T03:45:57.000Z"
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><strong><a href=\"https://z.ai/blog/glm-5.4\">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a></strong></p> GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this:</p> <blockquote> <p>In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of we",
+      "date": "2026-11-23T23:40:49.000Z"
+    },
+    {
+      "title": "Ladybird's first alpha release",
+      "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "source": "Simon Willison",
+      "tag": "dev",
+      "blurb": "<p><a href=\"https://ladybird.org\">Ladybird</a> is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like <a href=\"https://github.com/harfbuzz/harfbuzz\">HarfBuzz</a> for text shaping, <a href=\"https://skia.org/\">Skia</",
+      "date": "2026-11-23T21:46:35.000Z"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
       "source": "OpenAI News",
       "tag": "dev",
-      "blurb": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "date": "2026-11-22T00:00:00.000Z"
+      "blurb": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "date": "2026-11-23T21:20:00.000Z"
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "date": "2026-11-23T08:00:00.000Z"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI News",
+      "tag": "dev",
+      "blurb": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "date": "2026-11-23T08:00:00.000Z"
     }
   ]
 }
