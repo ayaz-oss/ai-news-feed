@@ -1,101 +1,53 @@
 {
-  "generatedAt": "2026-11-26T17:13:08.976Z",
+  "generatedAt": "2026-11-27T16:54:39.693Z",
   "items": [
     {
-      "title": "Quoting Jack Despain Zhou",
-      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude\"><p>Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attach",
-      "date": "2026-11-26T15:09:31.000Z"
-    },
-    {
-      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-      "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong><a href=\"https://www.sqlite.org/rsync.html\">sqlite3_rsync: Database Remote-Copy Tool For SQLite</a></strong></p> This additional SQLite tool has been around for a while now - it was added as \"experimental\" <a href=\"https://www.sqlite.org/releaselog/3_47_0.html\">in SQLite 3.47.0 in October 2024</a> and enhanced in <a href=\"https://www.sqlite.org/releaselog/3_50_0.html\">SQLite 3.50.0 in M",
-      "date": "2026-11-26T06:08:25.000Z"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><a href=\"https://news.ycombinator.com/item?id=50647673#50651685\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50647673\">The New York Times warns photographers not to update Photoshop over AI features</a> &mdash; Hacker News.</p><p>I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they coul",
-      "date": "2026-11-26T05:08:46.000Z"
-    },
-    {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "link": "https://news.ycombinator.com/item?id=50649864",
+      "title": "US Air Force's cloud computing platform hacked",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "There have been questions about why the /ask page (https://news.ycombinator.com/ask) was running dry of Ask HNs - e.g.:Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments)Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items? - https://news.ycombinator.com/item?id=50280719 - Oct 2026 (3 comments)I believe I found t",
-      "date": "2026-11-26T00:43:34.000Z"
+      "blurb": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 167 # Comments: 93",
+      "date": "2026-11-27T12:54:11.000Z"
     },
     {
-      "title": "Quoting Scott Aaronson",
-      "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<blockquote cite=\"https://scottaaronson.blog/?p=10379\"><p>It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you <e",
-      "date": "2026-11-25T23:26:32.000Z"
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
+      "title": "Claude sabotaging ML research tasks?",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 514 # Comments: 327",
-      "date": "2026-11-25T21:48:10.000Z"
+      "blurb": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 240 # Comments: 139",
+      "date": "2026-11-27T08:28:08.000Z"
     },
     {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title": "The group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
       "source": "Hacker News",
       "tag": "dev",
-      "blurb": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 537 # Comments: 461",
-      "date": "2026-11-25T21:18:02.000Z"
+      "blurb": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 539 # Comments: 238",
+      "date": "2026-11-27T06:44:34.000Z"
     },
     {
-      "title": "Backblaze explains why it's sharing customer information with advertisers",
-      "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-      "source": "Ars Technica",
+      "title": "AI made self-hosting fun again",
+      "link": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
-      "date": "2026-11-25T18:38:29.000Z"
+      "blurb": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 946 # Comments: 457",
+      "date": "2026-11-26T21:47:45.000Z"
     },
     {
-      "title": "datasette-charts 0.3a0",
-      "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
-      "source": "Simon Willison",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
       "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.3a0\">datasette-charts 0.3a0</a></p> <p>I added chart annotations to <a href=\"https://github.com/datasette/datasette-charts\">datasette-charts</a>!</p> <p>You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three.</p> <p>A chart with annotations loo",
-      "date": "2026-11-25T18:16:50.000Z"
+      "blurb": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 391 # Comments: 320",
+      "date": "2026-11-26T09:44:23.000Z"
     },
     {
-      "title": "datasette-charts 0.2a1",
-      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
-      "source": "Simon Willison",
-      "tag": "dev",
-      "blurb": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a1\">datasette-charts 0.2a1</a></p> <blockquote> <p>Minor UI improvements:</p> <ul> <li>Collapsing the <strong>suggested charts</strong> section now leaves the chart visible.</li> <li>Following a link to a chart opens it with the suggestions collapsed for that visit.</li> <li>On table pages the panel",
-      "date": "2026-11-24T06:07:19.000Z"
-    },
-    {
-      "title": "How Intentful uses dots to make more time for growth",
-      "link": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "date": "2026-11-24T00:00:00.000Z"
-    },
-    {
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "link": "https://openai.com/business/customer-stories/ifood",
-      "source": "OpenAI News",
-      "tag": "dev",
-      "blurb": "",
-      "date": "2026-11-24T00:00:00.000Z"
+      "title": "Why Districts Should Introduce AI to Teachers and Staff Before Students",
+      "link": "https://edtechmagazine.com/k12/article/2026/11/why-districts-should-introduce-ai-teachers-and-staff-students",
+      "source": "EdTech K-12",
+      "tag": "education",
+      "blurb": "At the Sweet Home Central School District, outside Buffalo, N.Y., laying out a single after-school bus run used to take the transportation office about six hours, and a student who wanted a seat had to sign up two weeks ahead. Then the district built its own artificial intelligence routing tool. “We’ve reduced it into minutes,” Superintendent Mike Ginestre told Education Week in a recent interview",
+      "date": "2026-11-24T17:09:54.000Z"
     }
   ]
 }
